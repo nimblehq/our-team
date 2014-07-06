@@ -1,6 +1,6 @@
 Mobile Developer
 ================
-We are Nimbl3, a dynamic software development company focused on building products for startups of Asia Pacific Region. If you want to join us and have fun building projects for prominent startups of Singapore, Indonesia, Malaysia and Canada this is your chance. Our clients are well-funded, recognised startups and backed by early stage Alibaba investors, iBuy group (owner of Ensogo) and 500 startups.
+We are Nimbl3, a dynamic software development studio focused on building products for startups of Asia Pacific Region. If you want to join us and have fun building projects for prominent startups of Singapore, Indonesia, Malaysia and Canada this is your chance. Our clients are well-funded, recognised startups and backed by early stage Alibaba investors, iBuy group (owner of Ensogo) and 500 startups.
 
 Our team has been part of the early stage team of companies such as Lazada - Rocket Internet and Pomelo Fashion. We have done eCommerce and software development of large scale platforms using Ruby on Rails and cloud computing. 
 
