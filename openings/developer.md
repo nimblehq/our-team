@@ -7,7 +7,7 @@ Our team has been part of the early stage team of companies such as Lazada - Roc
 **We are looking for someone that**
 - Is versatile. Interested to learn new technologies, ethical hacking, scalability and agile methodologies.
 - Knows OOP in any language, can be Java, PHP or Ruby and looking to learn new languages.
-- Knows Javascript / Jquery. JS frameworks are a plus.
+- Knows Javascript / Jquery/ CSS. JS frameworks and responsive implementations are a plus 
 - Is able to communicate in english.
 - 1+ years of experience.
 
@@ -21,5 +21,5 @@ Our team has been part of the early stage team of companies such as Lazada - Roc
 
 Send us your resume (no specific format required) and github if you have to [hello@nimbl3.com], send us a line message (line id: olivierobert) or even you can call us directly 0831160338. If you wanna learn more about us [check this out]
 
-[hello@nimbl3.com]:hello@nimbl3.com
-[check this out]:github.com/nimbl3/team
+[hello@nimbl3.com]:mailto:hello@nimbl3.com
+[check this out]:https://github.com/nimbl3/team
