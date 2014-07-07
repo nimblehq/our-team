@@ -20,4 +20,4 @@ Our team has been part of the early stage team of companies such as Lazada - Roc
 Send us your resume (no specific format required) and github if you have to [hello@nimbl3.com], send us a line message (line id: olivierobert) or even you can call us directly 0831160338. If you wanna learn more about us [check this out]
 
 [hello@nimbl3.com]:mailto:hello@nimbl3.com
-[check this out]:https://github.com/nimbl3/team
+[check this out]:https://github.com/nimbl3/our-team
