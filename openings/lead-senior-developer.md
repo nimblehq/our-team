@@ -9,6 +9,7 @@ Our team has been part of the early stage team of companies such as Lazada - Roc
 - Strong OOP in any language, can be Java, PHP, Python or Ruby and looking to learn new languages.
 - Strong Javascript / Jquery/ JS frameworks (any: Ember, Angular, Backbone, write your poison here) CSS / SASS or LESS. 
 - Ruby / Rails is a plus
+- Willing to take a leading role in our company / manage / mentor team members
 - Is able to communicate in english.
 - 3+ years of experience.
 
