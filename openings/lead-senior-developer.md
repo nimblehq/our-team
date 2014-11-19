@@ -6,8 +6,8 @@ Our team has been part of the early stage team of companies such as Lazada - Roc
 
 **We are looking for someone that**
 - Is versatile, curious and interested to learn new technologies.
-- Knows OOP in any language, can be Java, PHP or Ruby and looking to learn new languages.
-- Knows Javascript / Jquery/ JS frameworks (any: Ember, Angular, Backbone, ...) CSS / SASS or LESS. 
+- Strong OOP in any language, can be Java, PHP, Python or Ruby and looking to learn new languages.
+- Strong Javascript / Jquery/ JS frameworks (any: Ember, Angular, Backbone, write your poison here) CSS / SASS or LESS. 
 - Ruby / Rails is a plus
 - Is able to communicate in english.
 - 3+ years of experience.
