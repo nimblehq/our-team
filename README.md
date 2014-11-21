@@ -1,10 +1,11 @@
-
 We serve startups from Asia Pacific Region and we run our company as a startup as well. We like to work with flexible, fun and smart people.
 
 **Kind of projects we have done / do**
 * Several eCommerce platforms from the ground up
 * Live video streaming and on demand video rendering
 * Payments
+* Online dating
+* Real state
 * Traditional transactional web and mobile apps.
 
 **Kind of consulting we do**
@@ -42,7 +43,7 @@ We serve startups from Asia Pacific Region and we run our company as a startup a
 * New Relic
 * Icinga
 * Munin
-* Exploring airbrake at the moment.
+* Sentry
 
 **What have we done so far and which technologies do we know?**
 
@@ -50,15 +51,14 @@ We serve startups from Asia Pacific Region and we run our company as a startup a
 
 * Ruby on Rails
 * Sinatra
-* MySQL, Redis
-* Backbone
-* Angular JS
+* MySQL, Redis, Postgresql
+* Backbone, Angular JS, Ember
 * Node.js
 * AWS, DO, Heroku
 
 ***Other technologies we can do***
 * Java (Spring, EJB, Hibernate, iBatis, JSF, JSP, Struts, etc.), PHP (Kohana, Laravel, Zend Framework)
-* Mongo db, Oracle, PostgreSQL, MSSQL Server, PostGIS, Data-warehouse.
+* Mongo db, Oracle, MSSQL Server, PostGIS, Data-warehouse.
 * SAP (yes we know quite boring) and SAP Security Model (and how to hack it).
 
 
