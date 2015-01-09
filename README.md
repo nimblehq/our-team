@@ -11,7 +11,7 @@ We serve startups from Asia Pacific Region and we run our company as a startup a
 
 **Kind of consulting we do**
 * Performance improvement.
-* Scalability consulting (e.g. to help you to handle TV commercial kind of traffic, Line app partnerships).
+* Scalability consulting (e.g. to help you to handle TV commercial kind of traffic, Unexpected large client you just signed, Line app partnerships).
 * Security and basic penetration testing.
 * Architecture.
 
