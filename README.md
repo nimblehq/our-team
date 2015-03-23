@@ -1,25 +1,27 @@
+![nimbl3 logo](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/logo/JPG/logo%2Bbg-banner.jpg)
+
 We serve startups from Asia Pacific Region and we run our company as a startup as well. We like to work with flexible, fun and smart people.
 
 **Kind of projects we have done / do**
 * Several eCommerce platforms from the ground up
 * Live video streaming and on demand video rendering
 * Payments
-* Online dating
-* Real state
+* Dating / social networks
+* Real estate
 * Customer feedback platforms (think of survey monkey but for year 2015)
-* Several traditional transactional web and mobile apps.
+* Several traditional transactional web and mobile apps
 
 **Kind of consulting we do**
-* Performance improvement.
+* Architecture
 * Scalability consulting (e.g. to help you to handle TV commercial kind of traffic, Unexpected large client you just signed, Line app partnerships).
-* Security and basic penetration testing.
-* Architecture.
+* Performance improvement
+* Security and penetration testing
 
 **For development**
 * MacOS machines to avoid spending one day every 6 months formatting a machine
 * Rubymine
-* Sublime text
-* Vagrant and Docker.
+* Vagrant
+* Docker
 
 **Project Planning**
 *  Pivotal tracker
@@ -40,23 +42,22 @@ We serve startups from Asia Pacific Region and we run our company as a startup a
 
 **Monitoring**
 * New Relic
+* Sentry
 * Icinga
 * Munin
-* Sentry
 
 **What have we done so far and which technologies do we know?**
 
 ***Our main focus***
 
-* Ruby on Rails
-* Sinatra
-* MySQL, Redis, Postgresql
-* Backbone, Angular JS, Ember
+* Ruby on Rails / Sinatra
 * Node.js
+* Backbone, Angular JS, Ember
+* MySQL, Redis, Postgresql
 * AWS, Digital Ocean, Heroku
 
 ***Other technologies we can do***
-* Java (Spring, EJB, Hibernate, iBatis, JSF, JSP, Struts, etc.), PHP (Kohana, Laravel, Zend Framework)
+* Java (Spring, EJB, Hibernate, iBatis, JSF, JSP, Struts, etc.), PHP (Laravel, Yii, Zend Framework), Python (Django)
 * Mongo db, Oracle, MSSQL Server, PostGIS, Data-warehouse.
 * SAP (yes we know quite boring) and SAP Security Model (and how to hack it).
 

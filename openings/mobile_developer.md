@@ -1,24 +1,32 @@
 Mobile Developer
 ================
-We are Nimbl3, a dynamic software development studio focused on building products for startups of Asia Pacific Region. If you want to join us and have fun building projects for prominent startups of Singapore, Indonesia, Malaysia and Canada this is your chance. Our clients are well-funded, recognised startups and backed by early stage Alibaba investors, iBuy group (owner of Ensogo) and 500 startups.
+Nimbl3 is a software development company focused on building products for startups. We strive on building world-class web and mobile applications for our clients which are recognised startups and backed by prominent VCs and investors such as 500 startups, DeNA, InTouch, Alibaba.com investors.
 
-Our team has been part of the early stage team of companies such as Lazada - Rocket Internet and Pomelo Fashion. We have done eCommerce and software development of large scale platforms using Ruby on Rails and cloud computing. 
+Nimbl3 is founded by software developers who have been part of the early stage team of recognized companies such as Lazada (Rocket Internet). We are a 100% engineering company with a strong product management focus. To know more about how we work, what we have done, please [check this out].
 
-**We are looking for someone that**
-- Is versatile. Interested to learn new technologies, ethical hacking, scalability and agile methodologies.
-- Knowledge of an OOP language, can be any of these: Java or Objective C and looking to expand it to new platforms.
+At Nimbl3, we believe in self-driven attitude and passion to learn new technologies. All developers are trained to be full-stack software engineers covering both web and mobile platforms. If you are a mobile only developer and wish to expand to web development, or the opposite, you are a web developer and eager to do mobile development, we provide the perfect place for you to evolve.
+
+**We are looking for someone who**
+- I versatile. Interested to learn new technologies, ethical hacking, scalability and agile methodologies.
+- Has knowledge of an OOP language, can be any of these: Java or Objective C and looking to expand it to new platforms.
 - 1+ years of experience and at least one app already published in Google Play or Appstore.
 - Able to communicate in english
 
 **We offer**
-- Nice and fun working environment with fast learning experience. 
-- Free lunch every Friday.
-- Hacking time to explore new technologies you are interested to learn.
-- Our office is located next to BTS Chidlom (Amarin Plaza).
-- Work with a brand new Macbook pro, large screen and work with a brand new smartphone.
-- Transportation allowance.
+- Nice and fun working environment with fast learning experience
+- Free lunch every Friday
+- Hacking time to explore new technologies you are interested to learn
+- Work with a brand new Macbook pro and two large screens
+- Transportation allowance
+- Our office is located next to BTS Asoke and MRT Sukhumvit (Interchange 21). You can check some photos of our brand new office below.
 
 Send us your resume (no specific format required) and github if you have to [hello@nimbl3.com], send us a line message (line id: olivierobert) or even you can call us directly 0831160338. If you wanna learn more about us [check this out]
+
+![nimbl3 office - space 2](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-02.jpg)
+
+![nimbl3 office - space 1](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-01.jpg)
+
+![nimbl3 office - space 3](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-03.jpg)
 
 [hello@nimbl3.com]:mailto:hello@nimbl3.com
 [check this out]:https://github.com/nimbl3/our-team
