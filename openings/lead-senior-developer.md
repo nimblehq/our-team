@@ -19,7 +19,7 @@ We believe in self-driven attitude and passion to learn new technologies. All de
 - Nice and fun working environment with fast learning experience
 - Full range of technologies to work on and learn. Our projects use different technologies and operate in different industries
 - Free lunch every Friday
-- If you travel to any of the 12 cities in Thailand, Indonesia and Japan where our hotel partner (one of our clients) operates, you will get a even better pricing through our corporate account
+- Discounted hotel prices if you travel to any of the 12 cities in Thailand, Indonesia and Japan where our hotel partner (one of our clients) operates
 - Hacking time to explore new technologies you are interested to learn
 - Work with a brand new Macbook pro and two large screens
 - Transportation allowance
