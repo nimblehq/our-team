@@ -8,8 +8,9 @@ At Nimbl3, we believe in self-driven attitude and passion to learn new technolog
 
 **We are looking for someone who**
 - I versatile. Interested to learn new technologies, ethical hacking, scalability and agile methodologies.
-- Has knowledge of an OOP language, can be any of these: Java or Objective C and looking to expand it to new platforms.
-- 1+ years of experience and at least one app already published in Google Play or Appstore.
+- Has knowledge of an OOP language, can be any of these: Java and looking to expand it to new platforms.
+- Knowledge of Retrofit, Robospice, Picasso, Gson is highly valued
+- 2+ years of experience and at least one app already published in Google Play.
 - Able to communicate in english
 
 **We offer**
