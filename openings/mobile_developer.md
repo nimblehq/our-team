@@ -15,6 +15,7 @@ At Nimbl3, we believe in self-driven attitude and passion to learn new technolog
 **We offer**
 - Nice and fun working environment with fast learning experience
 - Free lunch every Friday
+- Discounted hotel prices if you travel to any of the 12 cities in Thailand, Indonesia and Japan where our hotel partner (one of our clients) operates
 - Hacking time to explore new technologies you are interested to learn
 - Work with a brand new Macbook pro and two large screens
 - Transportation allowance
