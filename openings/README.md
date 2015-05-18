@@ -1,6 +1,12 @@
 ![nimbl3 logo](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/logo/JPG/logo%2Bbg-banner.jpg)
 
-We serve startups from Asia Pacific Region and we run our company as a startup as well. We like to work with flexible, fun and smart people.
+Nimbl3 is a software development company focused on building products for startups. We strive on building world-class web and mobile applications for our clients which are recognised startups and backed by prominent VCs and investors such as 500 startups, DeNA, InTouch, Alibaba.com investors. 
+
+Nimbl3 is founded by software developers who have been part of the early stage team of recognized companies such as Lazada (Rocket Internet). We are a 100% engineering company with a strong product management focus. 
+
+At Nimbl3, we believe in self-driven attitude and passion to learn new technologies. All developers are trained to be full-stack software engineers covering both web and mobile platforms. If you are a mobile only developer and wish to expand to web development, or the opposite, you are a web developer and eager to do mobile development, we provide the perfect place for you to evolve.
+
+We have several openings please check the list.
 
 **Kind of projects we have done / do**
 * Several eCommerce platforms from the ground up
