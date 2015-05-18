@@ -25,7 +25,7 @@ We have several openings please check the list.
 * Security and penetration testing
 
 **For development**
-* MacOS machines to avoid spending one day every 6 months formatting a machine
+* Macbook pro for everyone + as many screens you need to pimp your desk
 * Rubymine
 * Vagrant
 * Docker
