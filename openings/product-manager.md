@@ -6,7 +6,7 @@ Nimbl3 is founded by software developers who have been part of the early stage t
 
 At Nimbl3, we believe in self-driven attitude and passion to learn new technologies. All developers are trained to be full-stack software engineers covering both web and mobile platforms. If you are a mobile only developer and wish to expand to web development, or the opposite, you are a web developer and eager to do mobile development, we provide the perfect place for you to evolve.
 
-** The role consists in **
+**The role consists in**
 
 - Manage effectively a product lifecycle from specification through delivery and maintenance.
 - Providing regular updates and status reports to the client.
@@ -14,7 +14,7 @@ At Nimbl3, we believe in self-driven attitude and passion to learn new technolog
 - Writing specifications, test plans, design test cases, test features, open bugs.
 - Supporting the senior team in implementing appropriate structure, processes, and workflows.
 
-** We are looking for someone who **
+**We are looking for someone who**
 
 - Is passionate about cutting edge technology. Tech savvy
 - Understands agile development.
@@ -26,7 +26,7 @@ At Nimbl3, we believe in self-driven attitude and passion to learn new technolog
 - 3+ years of experience.
 - Any nationality is welcome to apply.
 
-** We offer **
+**We offer**
 
 - Nice and fun working environment with fast learning experience
 - Work with a brand new Macbook pro and two large screens
