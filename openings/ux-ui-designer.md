@@ -25,9 +25,9 @@ At Nimbl3, we believe in self-driven attitude and passion to learn new tools, te
 
 Send us your resume (no specific format required) and github if you have to [hello@nimbl3.com], send us a line message (line id: olivierobert) or even you can call us directly 0831160338. If you wanna learn more about us [check this out]
 
-![nimbl3 office - space 2](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-02.jpg)
+![nimbl3 office - space 2](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-04.jpg)
 
-![nimbl3 office - space 1](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-01.jpg)
+![nimbl3 office - space 1](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-05.jpg)
 
 ![nimbl3 office - space 3](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-03.jpg)
 
