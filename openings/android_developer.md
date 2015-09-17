@@ -30,7 +30,7 @@ Send us your resume (no specific format required) and github if you have to [wor
 
 ![nimbl3 office - space 3](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-8.jpg)
 
-[hello@nimbl3.com]:mailto:work@nimbl3.com
+[work@nimbl3.com]:mailto:work@nimbl3.com
 [check this out]:https://github.com/nimbl3/our-team
 
 
