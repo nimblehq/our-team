@@ -7,7 +7,7 @@ Nimbl3 is founded by software developers who have been part of the early stage t
 At Nimbl3, we believe in self-driven attitude and passion to learn new technologies. All developers are trained to be full-stack software engineers covering both web and mobile platforms. If you are a mobile only developer and wish to expand to web development, or the opposite, you are a web developer and eager to do mobile development, we provide the perfect place for you to evolve.
 
 **We are looking for someone who**
-- I versatile. Interested to learn new technologies, ethical hacking, scalability and agile methodologies.
+- Is versatile. Interested to learn new technologies, ethical hacking, scalability and agile methodologies.
 - Has knowledge of an OOP language, can be any of these: Java and looking to expand it to new platforms.
 - Knowledge of Retrofit, Robospice, Picasso, Gson is highly valued
 - 2+ years of experience and at least one app already published in Google Play.
@@ -24,9 +24,9 @@ At Nimbl3, we believe in self-driven attitude and passion to learn new technolog
 
 Send us your resume (no specific format required) and github if you have to [hello@nimbl3.com], send us a line message (line id: olivierobert) or even you can call us directly 0831160338. If you wanna learn more about us [check this out]
 
-![nimbl3 office - space 2](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-02.jpg)
+![nimbl3 office - space 2](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-04.jpg)
 
-![nimbl3 office - space 1](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-01.jpg)
+![nimbl3 office - space 1](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-05.jpg)
 
 ![nimbl3 office - space 3](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-03.jpg)
 
