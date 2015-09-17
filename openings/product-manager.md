@@ -34,13 +34,13 @@ At Nimbl3, we believe in self-driven attitude and passion to learn new technolog
 - Transportation allowance
 - Our office is located next to BTS Asoke and MRT Sukhumvit (Interchange 21). You can check some photos of our brand new office below.
 
-Send us your resume (no specific format required) and github if you have to [hello@nimbl3.com], send us a line message (line id: olivierobert) or even you can call us directly 0831160338. If you wanna learn more about us [check this out]
+Send us your resume (no specific format required) and github if you have to [work@nimbl3.com], send us a line message (line id: olivierobert) or even you can call us directly 0831160338. If you wanna learn more about us [check this out]
 
-![nimbl3 office - space 2](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-04.jpg)
+![nimbl3 office - space 2](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-6.jpg)
 
-![nimbl3 office - space 1](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-05.jpg)
+![nimbl3 office - space 1](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-7.jpg)
 
-![nimbl3 office - space 3](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-03.jpg)
+![nimbl3 office - space 3](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-8.jpg)
 
-[hello@nimbl3.com]:mailto:hello@nimbl3.com
+[work@nimbl3.com]:mailto:work@nimbl3.com
 [check this out]:https://github.com/nimbl3/our-team
