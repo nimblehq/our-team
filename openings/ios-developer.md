@@ -7,7 +7,7 @@ Nimbl3 is founded by software developers who have been part of the early stage t
 At Nimbl3, we believe in self-driven attitude and passion to learn new technologies. All developers are trained to be full-stack software engineers covering both web and mobile platforms. If you are a mobile only developer and wish to expand to web development, or the opposite, you are a web developer and eager to do mobile development, we provide the perfect place for you to evolve.
 
 **We are looking for someone who**
-- I versatile. Interested to learn new technologies, ethical hacking, scalability and agile methodologies.
+- Is versatile. Interested to learn new technologies, ethical hacking, scalability and agile methodologies.
 - Has knowledge of an OOP language, can be any of these: Java or Objective C and looking to expand it to new platforms.
 - 2+ years of experience and at least one app already published in Appstore.
 - Able to communicate in english
