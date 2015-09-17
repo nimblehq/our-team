@@ -6,7 +6,7 @@ Nimbl3 is founded by software developers who have been part of the early stage t
 
 At Nimbl3, we believe in self-driven attitude and passion to learn new tools, technologies and ways to do achieve the best.
 
-**We are looking for someone who has **
+**We are looking for someone who has**
 - Versatility and flexibility, eager to learn new ways / tools to achieve the best.
 - Passion for building beautiful mobile & web designs 
 - Portfolio showcasing understanding of layout, typography, color and other design principles 
