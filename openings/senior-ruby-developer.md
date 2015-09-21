@@ -1,4 +1,4 @@
-Ruby on Rails Lead Developer
+Senior Ruby on Rails Developer
 ================
 Nimbl3 is a web and mobile applications dev studio focused on building products for startups. We strive on building world-class web and mobile applications for our clients which are recognised startups and backed by prominent VCs and investors such as 500 startups, DeNA, InTouch, Alibaba.com investors.
 
