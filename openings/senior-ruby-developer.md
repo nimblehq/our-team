@@ -12,7 +12,7 @@ We believe in self-driven attitude and passion to learn new technologies. All de
 - Has strong Javascript / Jquery/ JS frameworks (any: Ember, Angular, Backbone, write your poison here) CSS / SASS or LESS
 - Is willing to take a leading role in our company / manage / mentor team members
 - Is able to communicate in english
-- 2-3+ years of experience
+- 3+ years of experience
 - Any nationality
 
 **We offer**
