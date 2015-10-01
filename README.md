@@ -29,7 +29,7 @@ We serve startups from Asia Pacific Region and we run our company as a startup a
 **Project Planning**
 
 *  Pivotal tracker
-*  Treloo for non code related activities
+*  Trello for non code related activities
 *  Invision
 *  Proto.io
 
@@ -59,7 +59,7 @@ We serve startups from Asia Pacific Region and we run our company as a startup a
 * Ruby on Rails / Sinatra
 * Node.js
 * Backbone, Angular JS, Ember
-* MySQL, Redis, Postgresql
+* MySQL, Redis, PostgreSQL
 * AWS, Digital Ocean, Heroku
 
 ***Other technologies we can do***
