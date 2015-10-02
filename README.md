@@ -9,6 +9,7 @@ We serve startups from Asia Pacific Region and we run our company as a startup a
 * Payments
 * Dating / social networks
 * Real estate
+* Hotel booking 
 * Customer feedback platforms (think of survey monkey but for year 2015)
 * Several traditional transactional web and mobile apps
 
@@ -21,9 +22,8 @@ We serve startups from Asia Pacific Region and we run our company as a startup a
 
 **For development**
 
-* MacOS machines to avoid spending one day every 6 months formatting a machine
+* Macbook Pro
 * Rubymine
-* Vagrant
 * Docker
 
 **Project Planning**
@@ -32,19 +32,19 @@ We serve startups from Asia Pacific Region and we run our company as a startup a
 *  Trello for non code related activities
 *  Invision
 *  Proto.io
+*  Zeplin
 
 **Communication**
 
 * We have worked with in-house and remote teams, and we have reached to the conclusion that our iterations are way faster when we are at the same office. It's also nice to talk about issues openly with your colleagues face to face, Skype calls with multiple people can be chaotic (remember when someone said i can't hear you?) and non-productive.
 * Hipchat. All the repositories and deployment activities are notified to specific rooms allowing us to track who is doing what. We believe in transparency so our clients and us are on the same page anytime.
-* Email. There are some tools to build around it to manage it better (e.g. several emails coming from repo activities could be unnoticed)
 
 **For deployment**
 
 * Mina for deployments
 * Digital Ocean/AWS/Heroku(sometimes) mainly as the projects we have done required low level adjustement. Heroku is not always a possibility.
 * Some githooks for specific tasks like updating i18n files.
-
+* Semaphore CI
 
 **Monitoring**
 * New Relic
@@ -58,29 +58,12 @@ We serve startups from Asia Pacific Region and we run our company as a startup a
 
 * Ruby on Rails / Sinatra
 * Node.js
-* Backbone, Angular JS, Ember
-* MySQL, Redis, PostgreSQL
+* React, Backbone, Angular JS, Ember
+* PostgreSQL, MySQL, Redis
 * AWS, Digital Ocean, Heroku
 
 ***Other technologies we can do***
 
-* Java (Spring, EJB, Hibernate, iBatis, JSF, JSP, Struts, etc.), Python (Django), PHP (Laravel, Yii, Zend Framework),
+* Java (Spring, EJB, Hibernate, iBatis, JSF, JSP, Struts, etc.), Python, PHP (Laravel, Yii, Zend Framework),
 * Mongo db, Oracle, MSSQL Server, PostGIS, Data-warehouse.
 * SAP (yes we know quite boring) and SAP Security Model (and how to hack it).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
