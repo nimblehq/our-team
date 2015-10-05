@@ -8,7 +8,7 @@ We believe in self-driven attitude and passion to learn new technologies. All de
 
 **We are looking for someone who**
 - Is versatile, curious and interested to learn new technologies
-- Has experience in Ruby / Ruby on Rails. We also consider developers with strong knowledge of any OOP language like PHP, Java, Objective C, C#, Python, C++ If you want to learn new languages, you are welcome to apply
+- Has experience in Ruby / Ruby on Rails. 
 - Has strong Javascript / Jquery/ JS frameworks (any: Ember, Angular, Backbone, write your poison here) CSS / SASS or LESS
 - Is willing to take a leading role in our company / manage / mentor team members
 - Is able to communicate in english
