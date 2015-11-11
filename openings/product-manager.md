@@ -8,7 +8,8 @@ At Nimbl3, we believe in self-driven attitude and passion to learn new technolog
 
 **The role consists in**
 
-- Manage effectively a product lifecycle from specification through delivery and maintenance.
+- Managing effectively a product lifecycle from specification through delivery and maintenance.
+- Developing fast prototypes, proposals for new prospects or internal projects.
 - Providing regular updates and status reports to the client.
 - Ensuring top quality of our web and mobile applications and exceed clients expectations.
 - Writing specifications, test plans, design test cases, test features, open bugs.
@@ -16,10 +17,11 @@ At Nimbl3, we believe in self-driven attitude and passion to learn new technolog
 
 **We are looking for someone who**
 
-- Is passionate about cutting edge technology. Tech savvy
+- Is passionate about cutting edge technology. Highly tech savvy.
 - Understands agile development.
-- Pays high attention to details. Organized. 
-- Has coding experience. It is highly valuable to bridge the gap between the clients and developers.
+- Is 
+- Pays high attention to details. Organized and can deal with multiple kind of stakeholders.
+- Has strong frontend skills or mobile apps skills. We are looking for someone that is willing to get his/her hands dirty and interact at a deep level with the developers. It is highly valuable to bridge the gap between the clients and developers.
 - Looks for a leadership role, hence soft skills such as negotiation and evaluating/proposing creative alternatives are required.
 - Is very articulate and is at ease to interact with clients.
 - Degree in computer sciene or related fields.
@@ -30,7 +32,7 @@ At Nimbl3, we believe in self-driven attitude and passion to learn new technolog
 
 - Nice and fun working environment with fast learning experience
 - Work with a brand new Macbook pro and two large screens
-- Free lunch every Friday
+- Free lunch and team dinner every Wednesday 
 - Transportation allowance
 - Our office is located next to BTS Asoke and MRT Sukhumvit (Interchange 21). You can check some photos of our brand new office below.
 
