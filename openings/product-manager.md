@@ -20,7 +20,7 @@ At Nimbl3, we believe in self-driven attitude and passion to learn new technolog
 - Is passionate about cutting edge technology and learn new things. Highly tech savvy.
 - Understands agile development.
 - Pays high attention to details. Organized and can deal with multiple kind of stakeholders.
-- Has strong frontend skills or mobile apps skills. We are looking for someone that is willing to get his/her hands dirty and interact at a deep level with the developers to bridge the gap with the clients.
+- Has development skills frontend skills or mobile development. We are looking for someone that is willing to get his/her hands dirty and interact at a deep level with the developers to bridge the gap with the clients.
 - Looks for a leadership role, hence soft skills such as negotiation and evaluating/proposing creative alternatives are required.
 - Is very articulate and is at ease to interact with clients.
 - Degree in computer sciene or related fields.
