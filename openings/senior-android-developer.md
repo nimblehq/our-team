@@ -10,7 +10,7 @@ At Nimbl3, we believe in self-driven attitude and passion to learn new technolog
 - Is versatile. Interested to learn new technologies, ethical hacking, scalability and agile methodologies.
 - Has knowledge of an OOP language, can be any of these: Java and looking to expand it to new platforms.
 - Knowledge of Retrofit, Robospice, Picasso, Gson is highly valued. Rx experience is also a plus.
-- 4+ years of experience and at least one app already published in Google Play.
+- 4+ years of experience and at least two apps already published in Google Play.
 - Able to communicate in english
 
 **We offer**
