@@ -7,7 +7,7 @@ Nimbl3 is founded by software developers who have been part of the early stage t
 At Nimbl3, we believe in self-driven attitude and passion to learn new technologies. All developers are trained to be full-stack software engineers covering both web and mobile platforms. If you are a mobile only developer and wish to expand to web development, or the opposite, you are a web developer and eager to do mobile development, we provide the perfect place for you to evolve.
 
 **We are looking for someone who**
-- Is versatile. Interested to learn new technologies, ethical hacking, scalability and agile methodologies.
+- Is versatile. Interested to learn new technologies, how to code beautiful apps and work with agile methodologies
 - Has knowledge of an OOP language, can be any of these: Java and looking to expand it to new platforms.
 - Knowledge of Retrofit, Robospice, Picasso, Gson is highly valued. Rx experience is also a plus.
 - 4+ years of experience and at least two apps already published in Google Play.
@@ -15,9 +15,9 @@ At Nimbl3, we believe in self-driven attitude and passion to learn new technolog
 
 **We offer**
 - Nice and fun working environment with fast learning experience
-- Free lunch every Friday
+- Team lunch and dinner every wednesday.
 - Discounted hotel prices if you travel to any of the 12 cities in Japan, Thailand, Indonesia and Philippines where our hotel partner (one of our clients) operates
-- Hacking time to explore new technologies you are interested to learn every week. We call it tech wednesdays.
+- Hacking time to explore new technologies you are interested to learn, every week. We call it tech wednesdays.
 - Work with a brand new Macbook pro and two large screens
 - Transportation allowance
 - Our office is located next to BTS Asoke and MRT Sukhumvit (Interchange 21). You can check some photos of our brand new office below.
