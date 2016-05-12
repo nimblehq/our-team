@@ -26,6 +26,12 @@ We serve startups from Asia Pacific Region and we run our company as a startup a
 * Rubymine
 * Docker
 
+**For continuous integration**
+
+* Semaphore CI
+* Travis CI for Mobile applications
+
+
 **Project Planning**
 
 *  Pivotal tracker
@@ -59,7 +65,7 @@ We serve startups from Asia Pacific Region and we run our company as a startup a
 * Ruby on Rails / Sinatra
 * Node.js
 * React, Backbone, Angular JS, Ember
-* PostgreSQL, MySQL, Redis
+* PostgreSQL, MySQL, Redis, Mongo
 * AWS, Digital Ocean, Heroku
 
 ***Other technologies we can do***
