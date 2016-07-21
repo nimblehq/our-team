@@ -10,7 +10,7 @@ We serve startups from Asia Pacific Region and we run our company as a startup a
 * Dating / social networks
 * Real estate
 * Hotel booking 
-* Customer feedback platforms (think of survey monkey but for year 2015)
+* Customer feedback platforms (think of survey monkey but for year 2020)
 * Several traditional transactional web and mobile apps
 
 **Kind of consulting we do**
@@ -23,6 +23,7 @@ We serve startups from Asia Pacific Region and we run our company as a startup a
 **For development**
 
 * Macbook Pro
+* As many screens as you can handle
 * Rubymine
 * Docker
 
