@@ -43,7 +43,7 @@ We serve startups from Asia Pacific Region and we run our company as a startup a
 **Communication**
 
 * We have worked with in-house and remote teams, and we have reached to the conclusion that our iterations are way faster when we are at the same office. It's also nice to talk about issues openly with your colleagues face to face, Skype calls with multiple people can be chaotic (remember when someone said i can't hear you?) and non-productive.
-* Hipchat. All the repositories and deployment activities are notified to specific rooms allowing us to track who is doing what. We believe in transparency so our clients and us are on the same page anytime.
+* Slack. All the repositories and deployment activities are notified to specific rooms allowing us to track who is doing what. We believe in transparency so our clients and us are on the same page anytime.
 
 **For deployment**
 
