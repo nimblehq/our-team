@@ -16,7 +16,7 @@ We serve startups from Asia Pacific Region and we run our company as a startup a
 **Kind of consulting we do**
 
 * Architecture
-* Scalability consulting (e.g. to help you to handle TV commercial kind of traffic, Unexpected large client you just signed, Line app partnerships).
+* Scalability consulting
 * Performance improvement
 * Security and penetration testing
 
@@ -32,7 +32,6 @@ We serve startups from Asia Pacific Region and we run our company as a startup a
 * Semaphore CI
 * Travis CI for Mobile applications
 
-
 **Project Planning**
 
 *  Pivotal tracker
@@ -43,7 +42,7 @@ We serve startups from Asia Pacific Region and we run our company as a startup a
 
 **Communication**
 
-* We have worked with in-house and remote teams, and we have reached to the conclusion that our iterations are way faster when we are at the same office. It's also nice to talk about issues openly with your colleagues face to face, Skype calls with multiple people can be chaotic (remember when someone said i can't hear you?) and non-productive.
+* We have worked with in-house and remote teams, and we have reached to the conclusion that our iterations are way faster when we are at the same office. It's also nice to talk about issues openly with your colleagues face to face, Skype calls with multiple people can be chaotic and non-productive.
 * Slack. All the repositories and deployment activities are notified to specific rooms allowing us to track who is doing what. We believe in transparency so our clients and us are on the same page anytime.
 
 **For deployment**
@@ -54,6 +53,7 @@ We serve startups from Asia Pacific Region and we run our company as a startup a
 * Semaphore CI
 
 **Monitoring**
+
 * New Relic
 * Sentry
 * Icinga
@@ -71,6 +71,6 @@ We serve startups from Asia Pacific Region and we run our company as a startup a
 
 ***Other technologies we can do***
 
-* Java (Spring, EJB, Hibernate, iBatis, JSF, JSP, Struts, etc.), Python, PHP (Laravel, Yii, Zend Framework),
-* Mongo db, Oracle, MSSQL Server, PostGIS, Data-warehouse.
+* Java/ JEE, Python, PHP (Laravel, Yii, Zend Framework),
+* Mongo, Oracle, MSSQL, PostGIS, Data-warehouse.
 * SAP (yes we know quite boring) and SAP Security Model (and how to hack it).
