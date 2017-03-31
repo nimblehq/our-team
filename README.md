@@ -1,5 +1,3 @@
-![nimbl3 logo](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/logo/JPG/logo%2Bbg-banner.jpg)
-
 We serve startups from Asia Pacific Region and we run our company as a startup as well. We like to work with flexible, fun and smart people.
 
 **Kind of projects we have done / do**
