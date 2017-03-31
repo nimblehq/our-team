@@ -1,4 +1,4 @@
-We serve startups from Asia Pacific Region and we run our company as a startup as well. We like to work with flexible, fun and smart people.
+We serve startups from all over the world and we run our company as a startup as well. We like to work with flexible, fun and smart people.
 
 **Kind of projects we have done / do**
 
