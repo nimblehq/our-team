@@ -1,3 +1,9 @@
+<p align="center">
+  <img alt="Nimbl3 logo" src="https://github.com/nimbl3/our-team/blob/feature/update-main-content/assets/nimbl3-logo.png?raw=true" width="400"/>
+</p>
+
+---
+
 We are a software development company focused on building web and mobile applications for startups and innovative companies 
 from all over the world. We take a product development approach, creating custom software that people will love to use and 
 empowering our clients to do what they do best - better.
