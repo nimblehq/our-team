@@ -1,38 +1,66 @@
-Senior Ruby on Rails Developer
-================
-Nimbl3 is a web and mobile applications dev studio focused on building products for startups. We strive on building world-class web and mobile applications for our clients which are recognised startups and backed by prominent VCs and investors such as 500 startups, DeNA, InTouch, Alibaba.com investors.
+<p align="center">
+  <img alt="Nimbl3 logo" src="https://github.com/nimbl3/our-team/blob/development/assets/nimbl3-logo.png?raw=true" width="400"/>
+</p>
 
-Our founders are software developers who have been part of the early stage team of recognized companies such as Lazada (Rocket Internet). We are a 100% engineering company with a strong product management focus. To know more about how we work, what we have done, please [check this out].
+---
 
-We believe in self-driven attitude and passion to learn new technologies. All developers are trained to be full-stack software engineers covering both web and mobile platforms. If you are a mobile only developer and wish to expand to web development, or the opposite, you are a web developer and eager to do mobile development, we provide the perfect place for you to evolve.
+# Senior Software Developer
 
-**We are looking for someone who**
-- Is versatile, curious and interested to learn new technologies
-- Has experience in Ruby / Ruby on Rails. 
-- Has strong Javascript / Jquery/ JS frameworks (any: Ember, Angular, Backbone, write your poison here) CSS / SASS or LESS
-- Is willing to take a leading role in our company / manage / mentor team members
-- Is able to communicate in english
-- 3+ years of experience
-- Any nationality
+We are a software development company focused on building web and mobile applications for startups and innovative companies 
+from all over the world. We take a product development approach, creating custom software that people will love to use and 
+empowering our clients to do what they do best - better.
 
-**We offer**
-- Nice and fun working environment with fast learning experience
-- Full range of technologies to work on and learn. Our projects use different technologies and operate in different industries
-- Free team lunch and dinner every Wednesday
-- Discounted hotel prices if you travel to any of the 12 cities in Thailand, Indonesia, Philippines and Japan where our hotel partner (one of our clients) operates
-- Hacking time to explore new technologies you are interested to learn
-- Work with a brand new Macbook pro and two large screens
-- Transportation allowance
-- Visa + Work permit for foreign applicants
-- Our office is located next to BTS Asoke and MRT Sukhumvit (Interchange 21). You can check some photos of our brand new office below.
+Our founding team has been part of the early stage of companies such as Lazada, Rocket Internet and other recognized startups. 
+Over the years, we have grown an expert and multidisciplinary team working on large scale software development projects 
+of very diverse nature such as SAAS, social and eCommerce platforms.
 
-Send us your resume (no specific format required) and github if you have to [work@nimbl3.com], send us a line message (line id: olivierobert) or even you can call us directly 0831160338. If you wanna learn more about us [check this out]
+If you want to grow your skills as a developer, work following the best practices in the industry and have fun while doing 
+so, Nimbl3 is the right place for you!
 
-![nimbl3 office - space 2](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-6.jpg)
+To learn more about how we work, check our [Github](https://github.com/nimbl3/our-team/) and [Medium](https://medium.com/nimbl3) 
+accounts. To view some of the application we have developed, check our [Dribbble](https://dribbble.com/nimbl3) and [Behance](https://www.behance.net/Nimbl3) 
+accounts.
 
-![nimbl3 office - space 1](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-7.jpg)
+## What you will do
 
-![nimbl3 office - space 3](https://s3-ap-southeast-1.amazonaws.com/nimbl3-web-resources/images/office/photo-8.jpg)
+* Participate actively at every level of building world class applications: UX/UI, sprint planning, development, retrospective
+* Improve your skills through code reviews and pair programming
+* Constantly learn and experiment with new technologies
 
-[work@nimbl3.com]:mailto:work@nimbl3.com
-[check this out]:https://github.com/nimbl3/our-team
+## What you will bring
+   
+* **3+ years Ruby/Rails experience**
+* Believe that building great applications is not only about delivering code that “works”, but involves thinking about 
+reusability, maintainability and performance
+* Constantly learning and expanding your skill-set on and off the job
+* Comfortable working both on frontend and backend
+* Experience with testing (unit testing, integration testing)
+* A "Can do attitude" and a startup mindset
+* Enjoy working on challenging solutions and systems
+* Confidence in communicating in English
+* **Ability to relocate to Bangkok, Thailand**
+
+## Why work with us
+   
+* Fast learning experience. You will be able to have big responsibilities, autonomy and and the opportunity to quickly 
+level up your career.
+* Engineering focused environment. We care about process, using the right tools and testing thoroughly the application 
+we work on.
+* Regular one-on-one reviews to constantly improve and grow. We invest in your future.
+* Education allowance (yearly).
+* Provident Fund.
+* Medical insurance & social welfare.
+* Paid time off: 15 holidays per year, 2 weeks vacation per year, generous sick leave policy.
+* Monthly “investment-time” sessions to explore and learn new tech.
+* Free drinks and snacks all-day.
+* Visa and Work permit for foreigners. Relocation assistance in case you live abroad.
+* Our office is located in the best location in Bangkok next to BTS Asoke and MRT Sukhumvit (Interchange 21).
+
+## How to apply
+
+There are two ways to send us your application:
+
+* Send us an email to [work@nimbl3.com](mailto:work@nimbl3.com?subject=Joining Nimbl3) with your resume or LinkedIn profile
+along with any other details that would help in assessing your application better e.g. Github account, Stack Overflow account, 
+side projects.
+* Fill in the application form on [our recruitment platform Workhiro](https://www.workhiro.com/companies/nimbl3/049ee05b/apply?locale=en)
