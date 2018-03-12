@@ -1,74 +1,133 @@
-We serve startups from all over the world and we run our company as a startup as well. We like to work with flexible, fun and smart people.
+<p align="center">
+  <img alt="Nimbl3 logo" src="https://github.com/nimbl3/our-team/blob/development/assets/nimbl3-logo.png?raw=true" width="400"/>
+</p>
 
-**Kind of projects we have done / do**
+---
 
-* Several eCommerce platforms from the ground up
-* Live video streaming and on demand video rendering
+We are a software development company focused on building web and mobile applications for startups and innovative companies 
+from all over the world. We take a product development approach, creating custom software that people will love to use and 
+empowering our clients to do what they do best - better.
+
+## What we do
+
+### Kind of projects we have done/are currently doing
+
+* eCommerce platforms from the ground up 
+* Social networks
+* Online booking platforms
+* eLearning platforms
+* Customer feedback platforms (think of Survey Monkey but for the year 2020)
 * Payments
-* Dating / social networks
+* Live video streaming and on-demand video
 * Real estate
-* Hotel booking 
-* Customer feedback platforms (think of survey monkey but for year 2020)
-* Several traditional transactional web and mobile apps
 
-**Kind of consulting we do**
+### Kind of consulting we do
 
 * Architecture
-* Scalability consulting
+* Scalability
 * Performance improvement
 * Security and penetration testing
 
-**For development**
+## How we work
 
-* Macbook Pro
-* As many screens as you can handle
-* Rubymine
-* Docker
+We strive at providing a comfortable work environment and always using the right tools for the job at hand``. 
 
-**For continuous integration**
+* MacBook Pro for developers
+* 27" iMac for designers
+* As many Dell screens as you can handle
+* Ergonomic chair
+* JBL Bluetooth headset to go into the Zone 
 
+### For development
+
+* CLI Script to [setup your laptop](https://github.com/nimbl3/laptop)
+* Docker, Docker Compose
+* Github, Bitbucket
+* PhraseApp for localization
+
+#### Web
+
+* RubyMine
+* VS Code 
 * Semaphore CI
-* Travis CI for Mobile applications
+* [Pronto](https://github.com/prontolabs/pronto) to include automated code linting reviews
 
-**Project Planning**
+#### Mobile 
 
-*  Pivotal tracker
-*  Trello for non code related activities
-*  Invision
-*  Proto.io
-*  Zeplin
+* XCode 
+* Android Studio
+* Jenkins CI (dockerised 🙌)
+* [Fastlane](https://fastlane.tools/) (iOS and Android)
+* [Fabric](https://fabric.io/) to distribute builds
 
-**Communication**
+### UX/UI 
 
-* We have worked with in-house and remote teams, and we have reached to the conclusion that our iterations are way faster when we are at the same office. It's also nice to talk about issues openly with your colleagues face to face, Skype calls with multiple people can be chaotic and non-productive.
-* Slack. All the repositories and deployment activities are notified to specific rooms allowing us to track who is doing what. We believe in transparency so our clients and us are on the same page anytime.
+* Sketch
+* Adobe Illustrator for illustration and branding work only  
+* [Invision](https://www.invisionapp.com/)
+* [Principle](http://principleformac.com/) to animate our designs
 
-**For deployment**
+### Project Planning
 
-* Mina for deployments
-* Digital Ocean/AWS/Heroku(sometimes) mainly as the projects we have done required low level adjustement. Heroku is not always a possibility.
-* Some githooks for specific tasks like updating i18n files.
-* Semaphore CI
+* Pivotal Tracker (our fave 💙)
+* JIRA
+* Trello for non-code related activities
 
-**Monitoring**
+### Communication
 
-* New Relic
+* We have worked with in-house and remote teams, and we have reached to the conclusion that our iterations are way faster 
+when we are at the same office. It's also nice to talk about issues openly with your colleagues face to face, Skype calls 
+with multiple people can be chaotic and non-productive.
+* [Slack](https://slack.com/). All the repositories and deployment activities are notified to specific rooms allowing us 
+to track who is doing what. We believe in transparency so our clients and us are on the same page anytime.
+* [Line](https://line.me/en-US/). Used for internal and out-of-office communication. 
+
+### For deployment/hosting
+
+* Via CI/CD servers (Semaphore CI and Jenkins CI)
+* [Mina](https://github.com/mina-deploy/mina) in some cases e.g. Azure
+* Digital Ocean. Our fave 💙 for self-managed servers. 
+* Heroku. Our goto hosting provider for managed servers.
+* AWS
+* Azure
+* Some git hooks for specific tasks like updating i18n files
+
+### Monitoring
+
 * Sentry
-* Icinga
-* Munin
+* Logentries
+* Papertrail
+* Scout (for Ruby on Rails applications)
+* New Relic (server monitoring mostly)
 
-**What have we done so far and which technologies do we know?**
+## Technologies
 
-***Our main focus***
+### Our main focus
 
-* Ruby on Rails / Sinatra
-* Node.js
-* React, Backbone, Angular JS, Ember
-* PostgreSQL, MySQL, Redis, Mongo
-* AWS, Digital Ocean, Heroku
+* Ruby: Ruby on Rails / Sinatra / dry.rb
+* JavaScript: Node.js, React JS/Native, Ember JS
+* Swift (since 1.0 ✌️), Objective C
+* Kotlin, Java
+* PostgreSQL, Redis, MySQL
+* Elastic, Apache Solar
 
-***Other technologies we can do***
+## Other technologies we are investing in
 
-* Java/ JEE, Python, PHP (Laravel, Yii, Zend Framework),
-* Mongo, Oracle, MSSQL, PostGIS, Data-warehouse.
-* SAP (yes we know quite boring) and SAP Security Model (and how to hack it).
+* Go
+* TensorFlow 
+* Blockchain (smart contracts)
+
+## Other technologies we can do
+
+* Python
+* PHP: Laravel, Yii, Zend Framework
+* MSSQL, Mongo DB, Oracle, PostGIS, Data-warehouse
+* SAP (yes we know quite boring) and SAP Security Model (and how to hack it)
+
+## What we are up to
+
+We are active on the following platforms and regularly post updates:
+
+* [Medium](https://medium.com/nimbl3)
+* [Dribbble](https://dribbble.com/nimbl3)
+* [Behance](https://www.behance.net/Nimbl3)
