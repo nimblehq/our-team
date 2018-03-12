@@ -80,7 +80,7 @@ so applicants who have not been selected should not be discouraged from seeking 
 
 ## Openings
 
-We are always on the look-out for great people to join us so don't hesitate to send us your application at [work@nimbl3.com](mailto:work@nimbl3.com?subject=Joining Nimbl3). 
+We are always on the look-out for great people to join us so don't hesitate to send us your application to [work@nimbl3.com](mailto:work@nimbl3.com?subject=Joining Nimbl3). 
 
 We are currently hiring for the following positions:
 
