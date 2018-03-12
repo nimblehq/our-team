@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Nimbl3 logo" src="https://github.com/nimbl3/our-team/blob/feature/update-main-content/assets/nimbl3-logo.png?raw=true" width="400"/>
+  <img alt="Nimbl3 logo" src="https://github.com/nimbl3/our-team/blob/development/assets/nimbl3-logo.png?raw=true" width="400"/>
 </p>
 
 ---
@@ -123,3 +123,11 @@ to track who is doing what. We believe in transparency so our clients and us are
 * PHP: Laravel, Yii, Zend Framework
 * MSSQL, Mongo DB, Oracle, PostGIS, Data-warehouse
 * SAP (yes we know quite boring) and SAP Security Model (and how to hack it)
+
+## What we are up to
+
+We are active on the following platforms and regularly post updates:
+
+* [Medium](https://medium.com/nimbl3)
+* [Dribbble](https://dribbble.com/nimbl3)
+* [Behance](https://www.behance.net/Nimbl3)
