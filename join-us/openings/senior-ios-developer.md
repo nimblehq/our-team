@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Nimbl3 logo" src="https://github.com/nimbl3/our-team/blob/development/assets/nimbl3-logo.png?raw=true" width="400"/>
+  <img alt="Nimbl3 logo" src="https://github.com/nimbl3/our-team/blob/master/assets/nimbl3-logo.png?raw=true" width="400"/>
 </p>
 
 ---
