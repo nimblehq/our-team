@@ -131,3 +131,8 @@ We are active on the following platforms and regularly post updates:
 * [Medium](https://medium.com/nimbl3)
 * [Dribbble](https://dribbble.com/nimbl3)
 * [Behance](https://www.behance.net/Nimbl3)
+
+If this inspires you and you are interested to join our team, check out what [our recruitment process](join-us/our-recruitment-process.md) 
+is like and review if you match one of our [openings](https://www.workhiro.com/companies/nimbl3) ✌️
+
+If you just want to say "hi", drop us en email at hello@nimbl3.com 👋
