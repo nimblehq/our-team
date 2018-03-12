@@ -58,7 +58,6 @@ we work on.
 
 There are two ways to send us your application:
 
-* Send us an email to [work@nimbl3.com](mailto:work@nimbl3.com?subject=Joining Nimbl3) with your resume or LinkedIn profile
-along with any other details that would help in assessing your application better e.g. Github account, Stack Overflow account, 
-side projects.
+* Send us an email to work@nimbl3.com with your resume or LinkedIn profile along with any other details that would help 
+in assessing your application better e.g. Github account, Stack Overflow account, side projects.
 * Fill in the application form on [our recruitment platform Workhiro](https://www.workhiro.com/companies/nimbl3/810d25a4/apply?locale=en)
