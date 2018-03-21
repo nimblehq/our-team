@@ -25,11 +25,11 @@ maintaining a high level of quality. But one needs to accept that change is the 
 ## Applying to join us
 
 We keep our process short and straightforward focusing on actionable and measurable metrics related to the type of work 
-we do. Every candidate will go trough the followings stages:
+we do. Every candidate will go through the followings stages:
 
 ### 1st Interview
 
-Upon an initial screening over emails, we invite short-listed applicants for an interview. It can either be in in-person 
+Upon an initial screening over emails, we invite short-listed applicants for an interview. It can either be in-person 
 at our office for applicants living in the same country where our office is, or over Skype.
 
 Interview slots are booked via [Calendly](https://calendly.com/) so that applicants can pick a time that works best for them. 
@@ -40,28 +40,28 @@ both team-fit and technical aptitude. The technical questions do not require any
 interviews. Instead, we focus on practical and intermediate-level questions allowing applicants to reference their own experience 
 and at the same time allowing us to verify if the applicant is up-to-date with the current technologies and best practices.  
 
-### Code Assignment
+### Code Challenge
 
-Upon passing the first interview, applicants need to work on a code assignment relative to the positions they applied to 
+Upon passing the first interview, applicants need to work on a code challenge relative to the positions they applied to 
 i.e. Android test for Android developers, Ruby or JavaScript test for web developers, etc. We have tests for a large variety 
 of stacks 🤓 
 
 Applicants are given one week to complete the assignment from the comfort of their home. Commitment-wise, each applicant 
-should allocate between 4-8 hours of depending on their own technical aptitude and workflows. 
+should allocate between 4-8 hours depending on their own technical aptitude and workflows. 
 
 All code must be submitted via a public git-based code versioning platform such as Github, Bitbucket Gitlab. Upon submitting 
-the link to the code repository, applicants need to make sure that the issue tracker is enabled on the repository so that our team can submit our code review 
-feedback. 
+the link to the code repository, applicants need to make sure that the issue tracker is enabled on the repository so that our 
+team can submit our code review feedback. 
 
-Upon reception of the submission, our team usually take anywhere between 1-3 days to do a complete code reviews. As mentioned 
-previously, we open issues to provide our feedback that can boil down to the following: 
+Upon reception of the submission, our team usually take anywhere between 1-3 days to do a complete code review. As mentioned 
+previously, we open issues to provide our feedback that can usually boil down to the following: 
 
 * Questions on the implementation details. Often raised when we need clarifications on a technical decision taken by the 
-applicant e.g. design pattern, non-standard (or not know to us) third party library. The purpose is for applicants to 
+applicant e.g. design pattern, non-standard third-party library (or not known to us). The purpose is for applicants to 
 explain the reasons for their decision. 
-* Recommendation to change the implementations. We ahre our best practices and recommend another way to implement the same 
-feature.
-* Bugs. Upon testing the small application, our team encountered a technical issue or a feature does not work as expected.
+* Recommendation to change the implementations. We might recommend some of our best practices and recommend another way 
+to implement the same feature.
+* Bugs. Upon testing the small application, our team encountered a technical issue or a feature did not work as expected.
 
 ### 2nd Interview
 
