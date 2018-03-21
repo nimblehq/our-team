@@ -54,7 +54,7 @@ the link to the code repository, applicants need to make sure that the issue tra
 team can submit our code review feedback. 
 
 Upon reception of the submission, our team usually take anywhere between 1-3 days to do a complete code review. As mentioned 
-previously, we open issues to provide our feedback that can usually boil down to the following: 
+previously, we open issues to provide our feedback that usually fits into the following types: 
 
 * Questions on the implementation details. Often raised when we need clarifications on a technical decision taken by the 
 applicant e.g. design pattern, non-standard third-party library (or not known to us). The purpose is for applicants to 
