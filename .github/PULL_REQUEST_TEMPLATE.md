@@ -3,7 +3,7 @@ Describe the big picture of your changes here to communicate to team why we shou
  
  
 ## Insight
-Describe in details how to test the chanes, referenced documentation os welcome as well.
+Describe in details how to test the changes, referenced documentation os welcome as well.
  
 
 ## Proof Of Work
