@@ -8,9 +8,9 @@
 
 When it comes to recruitment, regardless of the role, we are always looking for the following traits:
 
-* Ownership mentality. People always work in small agile teams (3-5 people) and as a consequence, everyone has a great impact 
-but also responsibility for the product the team is building. We go beyond execution, we want to our teammates to feel deeply 
-involved in what they do. 
+* Ownership mentality. People always work in small agile teams (3-5 people) and as a consequence, everyone has a great 
+impact but also responsibility for the product the team is building. We go beyond execution, we want to our teammates to 
+feel deeply involved in what they do. 
 * Dependable. We go to great lengths for our clients, they can rely on us to deliver and all our team members are reliable 
 and trustworthy.
 * Continuous learner. Software development, UX/UI and product management keep evolving, hence our team members need to 
@@ -32,13 +32,14 @@ we do. Every candidate will go through the followings stages:
 Upon an initial screening over emails, we invite short-listed applicants for an interview. It can either be in-person 
 at our office for applicants living in the same country where our office is, or over Skype.
 
-Interview slots are booked via [Calendly](https://calendly.com/) so that applicants can pick a time that works best for them. 
-Interviews usually take anywhere between 30 to 60 minutes.
+Interview slots are booked via [Calendly](https://calendly.com/) so that applicants can pick a time that works best for 
+them. Interviews usually take anywhere between 30 to 60 minutes.
 
 During this first meet, we blend informal, technical and personality-based questions. At this first stage, we are checking 
-both team-fit and technical aptitude. The technical questions do not require any special preparation as we do not do whiteboard 
-interviews. Instead, we focus on practical and intermediate-level questions allowing applicants to reference their own experience 
-and at the same time allowing us to verify if the applicant is up-to-date with the current technologies and best practices.  
+both team-fit and technical aptitude. The technical questions do not require any special preparation as we do not do 
+whiteboard interviews. Instead, we focus on practical and intermediate-level questions allowing applicants to reference 
+their own experience and at the same time allowing us to verify if the applicant is up-to-date with the current technologies 
+and best practices.  
 
 ### Challenge
 
