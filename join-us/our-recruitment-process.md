@@ -131,7 +131,7 @@ during the whole application process. We are usually fast on taking a final deci
 whether positive or negative, within 1-2 days at most.
 
 In our hiring process, we prefer to be too cautious. We rather reject someone by mistake than hire someone by mistake, since 
-a wrong hire is much more disruptive. Organizations can reject [people with great potential](http://thehustle.co/whatsapp-founder-got-rejected-by-both-twitter-and-facebook-before-19-billion-buyout) 
+a wrong hire is much more disruptive. Organizations can reject [people with great potential](https://www.adweek.com/digital/whatsapp-facebook-twitter-brian-acton/) 
 so applicants who have not been selected should not be discouraged from seeking a great job.
 
 ## Openings
