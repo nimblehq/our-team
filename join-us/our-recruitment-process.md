@@ -40,18 +40,24 @@ both team-fit and technical aptitude. The technical questions do not require any
 interviews. Instead, we focus on practical and intermediate-level questions allowing applicants to reference their own experience 
 and at the same time allowing us to verify if the applicant is up-to-date with the current technologies and best practices.  
 
-### Code Challenge
+### Challenge
 
-Upon passing the first interview, applicants need to work on a code challenge relative to the positions they applied to 
-i.e. Android test for Android developers, Ruby or JavaScript test for web developers, etc. We have tests for a large variety 
-of stacks 🤓 
+Upon passing the first interview, applicants need to work on a challenge relative to the positions they applied to 
+i.e. Ruby or JavaScript test for web developers, Android or iOS test for mobile developers, Product test for Product Managers, 
+UX/UI test for designers etc. We have tests for each position we advertise 🤓 
 
 Applicants are given one week to complete the assignment from the comfort of their home. Commitment-wise, each applicant 
-should allocate between 4-8 hours depending on their own technical aptitude and workflows. 
+should allocate between 4-8 hours but it varies greatly based on their own technical aptitude and workflows. 
+
+#### Developers
+
+The challenge requires to build a small application from scratch with a single feature. Applicants have the opportunity 
+to show how they can architect a small application from scratch using the best practices of software development encompassing 
+code structure, maintainability, security and testing.
 
 All code must be submitted via a public git-based code versioning platform such as Github, Bitbucket Gitlab. Upon submitting 
-the link to the code repository, applicants need to make sure that the issue tracker is enabled on the repository so that our 
-team can submit our code review feedback. 
+the link to the code repository, applicants need to make sure that the issue tracker is enabled on the repository so that 
+our team can submit our code review feedback. 
 
 Upon reception of the submission, our team usually take anywhere between 1-3 days to do a complete code review. As mentioned 
 previously, we open issues to provide our feedback that usually fits into the following types: 
@@ -62,6 +68,56 @@ explain the reasons for their decision.
 * Recommendation to change the implementations. We might recommend some of our best practices and recommend another way 
 to implement the same feature.
 * Bugs. Upon testing the small application, our team encountered a technical issue or a feature did not work as expected.
+
+Applicants are invited to interact with our team by replying directly to the open issues and also have the opportunity to
+fix or change the code following the code review comments. So the code challenge is really a participative process, not 
+a submission-and-waiting-and-praying-everything-goes-well step. Our main goal is to find developers we would love to work 
+with. So show us how awesome you are in the code review 💪
+
+#### Product Managers
+
+The challenge requires to review one of our current or past product. Applicants are expected to:
+
+* Provide recommendations on improving existing features
+* Provide recommendations on potential new features 
+* Find, report and classify any kind of bugs/issues in the product
+
+Applicants are free to choose the format in which they want to submit their report e.g. test document, presentation, 
+spreadsheet, website, blog article...
+
+Upon reception of the submission by email, our team usually take anywhere between 3-5 days to do a complete review. We 
+put great emphasis on the following:
+
+* Care and attention to details in the way to present your report
+* Business value-added of your recommendations
+
+Our review will be emailed back to you.
+
+#### UX/UI Designers
+
+The challenge is broken into two tasks:
+
+1. UX
+
+Applicants need to create a UX flow for a specific feature for a fictive company in a specific industry e.g. eCommerce 
+checkout flow for a jo board, payment flow for a bank. Only the main screens are expected to make the task smaller in scope.
+
+The UX flow must be submitted in PDF format.
+
+2. UI
+
+Applicants need to create a single screen for a fictive company in a specific industry e.g. homepage for a music application,
+checkout page for an online grocery store. The UI must be a single page and be responsive if the assignment is for a web 
+application. 
+
+The challenge leaves lots of room for applicants to show us their personality since there are no constraints on colors, 
+fonts, images or illustrations.
+
+The design must be submitted as a single PNG file along with the original source file (Sketch preferred).
+
+Upon reception of the submission by email, our team usually take anywhere between 3-5 days to do a complete review.
+
+Our review will be emailed back to you.
 
 ### 2nd Interview
 
