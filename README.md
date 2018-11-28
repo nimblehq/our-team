@@ -112,13 +112,15 @@ to track who is doing what. We believe in transparency so our clients and us are
 * PostgreSQL, Redis, MySQL
 * Elastic, Apache Solar
 
-## Other technologies we are investing in
+## Other tech areas we are investing in
 
-* Go
-* TensorFlow 
-* Blockchain (smart contracts)
+* Blockchain, smart contracts, and cryptocurrencies
+* Machine learning 
+* Ethical hacking
+* Scalability & performance
+* System architecture
 
-## Other technologies we can do
+## Other tech we can do
 
 * Python
 * PHP: Laravel, Yii, Zend Framework
