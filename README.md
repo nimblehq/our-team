@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Nimbl3 logo" src="https://github.com/nimbl3/our-team/blob/master/assets/nimbl3-logo.png?raw=true" width="400"/>
+  <img alt="Nimble logo" src="https://assets.nimblehq.co/logo/light/logo-light-text-320.png" />
 </p>
 
 ---
@@ -40,7 +40,7 @@ We strive at providing a comfortable work environment and always using the right
 
 ### For development
 
-* CLI Script to [setup your laptop](https://github.com/nimbl3/laptop)
+* CLI Script to [setup your laptop](https://github.com/nimblehq/laptop)
 * Docker, Docker Compose
 * Github, Bitbucket
 * PhraseApp for localization
@@ -106,18 +106,21 @@ to track who is doing what. We believe in transparency so our clients and us are
 
 * Ruby: Ruby on Rails / Sinatra / dry.rb
 * JavaScript: Node.js, React JS/Native, Ember JS
+* Go
 * Swift (since 1.0 ✌️), Objective C
 * Kotlin, Java
 * PostgreSQL, Redis, MySQL
 * Elastic, Apache Solar
 
-## Other technologies we are investing in
+## Other tech areas we are investing in
 
-* Go
-* TensorFlow 
-* Blockchain (smart contracts)
+* Blockchain, smart contracts, and cryptocurrencies
+* Machine learning 
+* Ethical hacking
+* Scalability & performance
+* System architecture
 
-## Other technologies we can do
+## Other tech we can do
 
 * Python
 * PHP: Laravel, Yii, Zend Framework
@@ -128,11 +131,11 @@ to track who is doing what. We believe in transparency so our clients and us are
 
 We are active on the following platforms and regularly post updates:
 
-* [Medium](https://medium.com/nimbl3)
-* [Dribbble](https://dribbble.com/nimbl3)
-* [Behance](https://www.behance.net/Nimbl3)
+* [Medium](https://medium.com/nimble)
+* [Dribbble](https://dribbble.com/nimblehq)
+* [Behance](https://www.behance.net/nimblehq)
 
 If this inspires you and you are interested to join our team, check out what [our recruitment process](join-us/our-recruitment-process.md) 
-is like and review if you match one of our [openings](https://www.workhiro.com/companies/nimbl3) ✌️
+is like and review if you match one of our [openings](https://www.workhiro.com/companies/nimble) ✌️
 
-If you just want to say "hi", drop us en email at hello@nimbl3.com 👋
+If you just want to say "hi", drop us en email at hello@nimblehq.co 👋

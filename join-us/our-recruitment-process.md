@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Nimbl3 logo" src="https://github.com/nimbl3/our-team/blob/master/assets/nimbl3-logo.png?raw=true" width="400"/>
+  <img alt="Nimble logo" src="https://github.com/nimblehq/our-team/blob/master/assets/nimbl3-logo.png?raw=true" width="400"/>
 </p>
 
 ---
@@ -137,13 +137,13 @@ so applicants who have not been selected should not be discouraged from seeking 
 
 ## Openings
 
-We are always on the look-out for great people to join us so don't hesitate to send us your application to work@nimbl3.com. 
+We are always on the look-out for great people to join us so don't hesitate to send us your application to work@nimblehq.co. 
 
 We are currently hiring for the following positions:
 
 - [Senior Software Developer](openings/senior-software-developer.md) (Ruby)
 - [Senior iOS Developer](openings/senior-ios-developer.md)
 - [Senior Android Developer](openings/senior-android-developer.md)
-- [Web and Mobile Product Manager](openings/product-manager.md)
+- [Technical Product Owner](openings/technical-product-owner.md)
 
-We also advertise additional details and position on [our recruitment platform Workhiro](http://workhiro.com/companies/nimbl3)
+We also advertise additional details and position on [our recruitment platform Workhiro](http://workhiro.com/companies/nimble)
