@@ -144,6 +144,6 @@ We are currently hiring for the following positions:
 - [Senior Software Developer](openings/senior-software-developer.md) (Ruby)
 - [Senior iOS Developer](openings/senior-ios-developer.md)
 - [Senior Android Developer](openings/senior-android-developer.md)
-- [Web and Mobile Product Manager](openings/product-manager.md)
+- [Technical Product Owner](openings/technical-product-owner.md)
 
 We also advertise additional details and position on [our recruitment platform Workhiro](http://workhiro.com/companies/nimble)

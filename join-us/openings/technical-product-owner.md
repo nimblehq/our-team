@@ -1,10 +1,10 @@
 <p align="center">
-  <img alt="Nimble logo" src="https://github.com/nimblehq/our-team/blob/master/assets/nimbl3-logo.png?raw=true" width="400"/>
+  <img alt="Nimble logo" src="https://assets.nimblehq.co/logo/light/logo-light-text-320.png" />
 </p>
 
 ---
 
-# Web and Mobile Product Manager
+# Technical Product Owner
 
 We are a software development company focused on building web and mobile applications for startups and innovative companies 
 from all over the world. We take a product development approach, creating custom software that people will love to use and 
