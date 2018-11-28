@@ -106,6 +106,7 @@ to track who is doing what. We believe in transparency so our clients and us are
 
 * Ruby: Ruby on Rails / Sinatra / dry.rb
 * JavaScript: Node.js, React JS/Native, Ember JS
+* Go
 * Swift (since 1.0 ✌️), Objective C
 * Kotlin, Java
 * PostgreSQL, Redis, MySQL
