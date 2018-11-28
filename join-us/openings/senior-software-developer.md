@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Nimbl3 logo" src="https://github.com/nimbl3/our-team/blob/master/assets/nimbl3-logo.png?raw=true" width="400"/>
+  <img alt="Nimble logo" src="https://github.com/nimblehq/our-team/blob/master/assets/nimbl3-logo.png?raw=true" width="400"/>
 </p>
 
 ---
@@ -15,10 +15,10 @@ Over the years, we have grown an expert and multidisciplinary team working on la
 of very diverse nature such as SAAS, social and eCommerce platforms.
 
 If you want to grow your skills as a developer, work following the best practices in the industry and have fun while doing 
-so, Nimbl3 is the right place for you!
+so, Nimble is the right place for you!
 
-To learn more about how we work, check our [Github](https://github.com/nimbl3/our-team/) and [Medium](https://medium.com/nimbl3) 
-accounts. To view some of the application we have developed, check our [Dribbble](https://dribbble.com/nimbl3) and [Behance](https://www.behance.net/Nimbl3) 
+To learn more about how we work, check our [Github](https://github.com/nimblehq/our-team/) and [Medium](https://medium.com/nimble) 
+accounts. To view some of the application we have developed, check our [Dribbble](https://dribbble.com/nimblehq) and [Behance](https://www.behance.net/nimblehq) 
 accounts.
 
 ## What you will do
@@ -60,6 +60,6 @@ we work on.
 
 There are two ways to send us your application:
 
-* Send us an email to work@nimbl3.com with your resume or LinkedIn profile along with any other details that would help 
+* Send us an email to work@nimblehq.co with your resume or LinkedIn profile along with any other details that would help 
 in assessing your application better e.g. Github account, Stack Overflow account, side projects.
-* Fill in the application form on [our recruitment platform Workhiro](https://www.workhiro.com/companies/nimbl3/049ee05b/apply?locale=en)
+* Fill in the application form on [our recruitment platform Workhiro](https://www.workhiro.com/companies/nimble/049ee05b/apply?locale=en)
