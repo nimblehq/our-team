@@ -6,20 +6,17 @@
 
 # Technical Product Owner
 
-We are a software development company focused on building web and mobile applications for startups and innovative companies 
-from all over the world. We take a product development approach, creating custom software that people will love to use and 
-empowering our clients to do what they do best - better.
+We are a team of designers, software developers and product owners building outstanding web and mobile applications for 
+companies of all sizes, from 1-person startups to Fortune 500 companies. We take a product development approach, creating 
+custom software that people will love to use and empowering our clients to do what they do best - better.
 
-Our founding team has been part of the early stage of companies such as Lazada, Rocket Internet and other recognized startups. 
-Over the years, we have grown an expert and multidisciplinary team working on large scale software development projects 
-of very diverse nature such as SAAS, social and eCommerce platforms.
+If you want to grow together, work on challenging products and enjoy using the best tools and practices, Nimble is the 
+right place for you! We keep our [recruitment process](https://github.com/nimblehq/our-team/blob/master/join-us/our-recruitment-process.md) 
+practical and straightforward.
 
-If you want to grow your skills as a developer, work following the best practices in the industry and have fun while doing 
-so, Nimble is the right place for you!
-
-To learn more about how we work, check our [Github](https://github.com/nimblehq/our-team/) and [Medium](https://medium.com/nimble) 
-accounts. To view some of the application we have developed, check our [Dribbble](https://dribbble.com/nimblehq) and [Behance](https://www.behance.net/nimblehq) 
-accounts.
+To learn more about how we work, check our handbkook [Compass](https://compass.nimblehq.co/), [Github](https://github.com/nimblehq/our-team) 
+and [Medium](https://medium.com/nimble) accounts. Want to see what we have built? Check our selected [portfolio](https://nimblehq.co/work/), 
+[Dribbble](https://dribbble.com/nimblehq) and [Behance](https://www.behance.net/nimblehq) accounts.
 
 ## What you will do
 * Ensure top quality of our web and mobile applications and exceed clients' expectations.
