@@ -4,22 +4,19 @@
 
 ---
 
-# Senior Android Developer
+# Ruby/Rails Developer
 
-We are a software development company focused on building web and mobile applications for startups and innovative companies 
-from all over the world. We take a product development approach, creating custom software that people will love to use and 
-empowering our clients to do what they do best - better.
+We are a team of designers, software developers and product owners building outstanding web and mobile applications for 
+companies of all sizes, from 1-person startups to Fortune 500 companies. We take a product development approach, creating 
+custom software that people will love to use and empowering our clients to do what they do best - better.
 
-Our founding team has been part of the early stage of companies such as Lazada, Rocket Internet and other recognized startups. 
-Over the years, we have grown an expert and multidisciplinary team working on large scale software development projects 
-of very diverse nature such as SAAS, social and eCommerce platforms.
+If you want to grow together, work on challenging products and enjoy using the best tools and practices, Nimble is the 
+right place for you! We keep our [recruitment process](https://github.com/nimblehq/our-team/blob/master/join-us/our-recruitment-process.md) 
+practical and straightforward.
 
-If you want to grow your skills as a developer, work following the best practices in the industry and have fun while doing 
-so, Nimble is the right place for you!
-
-To learn more about how we work, check our [Github](https://github.com/nimblehq/our-team/) and [Medium](https://medium.com/nimble) 
-accounts. To view some of the application we have developed, check our [Dribbble](https://dribbble.com/nimblehq) and [Behance](https://www.behance.net/nimblehq) 
-accounts.
+To learn more about how we work, check our handbkook [Compass](https://compass.nimblehq.co/), [Github](https://github.com/nimblehq/our-team) 
+and [Medium](https://medium.com/nimble) accounts. Want to see what we have built? Check our selected [portfolio](https://nimblehq.co/work/), 
+[Dribbble](https://dribbble.com/nimblehq) and [Behance](https://www.behance.net/nimblehq) accounts.
 
 ## What you will do
 
@@ -29,15 +26,15 @@ accounts.
 
 ## What you will bring
 
-* **3+ years Android experience** (Java). Kotlin experience is a plus.
-* Experience with cutting edge libraries and technologies related with the Android ecosystem.
-* Believe that building great applications is not only about delivering code that “works”, but involves thinking about reusability, maintainability, and performance
-* Constantly learning and expanding your skill-sets on and off the job
+* **3+ years Ruby/Rails experience**
+* Believe that building great applications is not only about delivering code that “works”, but involves thinking about reusability, maintainability and performance
+* Constantly learning and expanding your skill-set on and off the job
+* Comfortable working both on frontend and backend
 * Experience with testing (unit testing, integration testing)
 * A "Can do attitude" and a startup mindset
 * Enjoy working on challenging solutions and systems
 * Confidence in communicating in English
-* Ability to relocate to Bangkok, Thailand
+* **Ability to relocate to Bangkok, Thailand**
 
 ## Why work with us
    
@@ -61,6 +58,4 @@ There are two ways to send us your application:
 
 * Send us an email to work@nimblehq.co with your resume or LinkedIn profile along with any other details that would help 
 in assessing your application better e.g. Github account, Stack Overflow account, side projects.
-* Fill in the application form on [our recruitment platform Workhiro](https://www.workhiro.com/companies/nimble/820c7cca/apply?locale=en)
-
-
+* Fill in the application form on [our recruitment platform Workhiro](https://www.workhiro.com/companies/nimble/049ee05b/apply?locale=en)

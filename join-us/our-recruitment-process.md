@@ -25,12 +25,20 @@ maintaining a high level of quality. But one needs to accept that change is the 
 ## Applying to join us
 
 We keep our process short and straightforward focusing on actionable and measurable metrics related to the type of work 
-we do. Every candidate will go through the followings stages:
+we do. Every candidate will go through the followings stages (in this order):
+
+### Information Form
+
+Upon reception of an application, we ask applicants to fill in an [Airtable](https://airtable.com/)-based information form 
+composed of 8-12 questions customized for each role. We aim to see beyond a resume so this step is very critical to us to 
+know applicants better and understand what they could bring to the team.
+
+As we like to move fast, applicants are invited to submit the form back to us within 2 days following their application.
 
 ### 1st Interview
 
-Upon an initial screening over emails, we invite short-listed applicants for an interview. It can either be in-person 
-at our office for applicants living in the same country where our office is, or over Skype.
+Following the review of the information provided in the previous step, we invite short-listed applicants for an interview. 
+It can either be in-person at our office for applicants living in the same country where our office is, or over Skype.
 
 Interview slots are booked via [Calendly](https://calendly.com/) so that applicants can pick a time that works best for 
 them. Interviews usually take anywhere between 30 to 60 minutes.
@@ -45,7 +53,7 @@ and best practices.
 
 Upon passing the first interview, applicants need to work on a challenge relative to the positions they applied to 
 i.e. Ruby or JavaScript test for web developers, Android or iOS test for mobile developers, Product test for Product Managers, 
-UX/UI test for designers etc. We have tests for each position we advertise 🤓 
+UX/UI test for designers etc. We have challenges for each position we advertise 🤓 
 
 Applicants are given one week to complete the assignment from the comfort of their home. Commitment-wise, each applicant 
 should allocate between 4-8 hours but it varies greatly based on their own technical aptitude and workflows. 
@@ -141,9 +149,9 @@ We are always on the look-out for great people to join us so don't hesitate to s
 
 We are currently hiring for the following positions:
 
-- [Senior Software Developer](openings/senior-software-developer.md) (Ruby)
-- [Senior iOS Developer](openings/senior-ios-developer.md)
-- [Senior Android Developer](openings/senior-android-developer.md)
+- [Lead Web Developer](openings/lead-web-developer.md)
+- [Lead Android Developer](openings/lead-android-developer.md)
+- [Ruby/Rails Developer](openings/ruby-rails-developer.md)
 - [Technical Product Owner](openings/technical-product-owner.md)
 
 We also advertise additional details and position on [our recruitment platform Workhiro](http://workhiro.com/companies/nimble)
