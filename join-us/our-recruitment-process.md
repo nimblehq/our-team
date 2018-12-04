@@ -151,6 +151,7 @@ We are currently hiring for the following positions:
 
 - [Lead Web Developer](openings/lead-web-developer.md)
 - [Lead Android Developer](openings/lead-android-developer.md)
+- [Ruby/Rails Developer](openings/ruby-rails-developer.md)
 - [Technical Product Owner](openings/technical-product-owner.md)
 
 We also advertise additional details and position on [our recruitment platform Workhiro](http://workhiro.com/companies/nimble)
