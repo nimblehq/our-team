@@ -57,8 +57,6 @@ we work on.
 
 There are two ways to send us your application:
 
-* Send us an email to work@nimblehq.co with your resume or LinkedIn profile along with any other details that would help 
+* Send us an email to **job.ee3oa@nimble.recruitee.com** or **work@nimblehq.co** with your resume or LinkedIn profile along with any other details that would help 
 in assessing your application better e.g. Github account, Stack Overflow account, side projects.
-* Fill in the application form on [our recruitment platform Workhiro](https://www.workhiro.com/companies/nimble/8459614e/apply?locale=en)
-
-
+* Fill in the application form on [our jobs site](https://jobs.nimblehq.co/o/lead-android-developer)
