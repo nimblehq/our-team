@@ -4,7 +4,7 @@
 
 ---
 
-# Lead Web Developer
+# Ruby/Rails Developer
 
 We are a team of designers, software developers and product owners building outstanding web and mobile applications for 
 companies of all sizes, from 1-person startups to Fortune 500 companies. We take a product development approach, creating 
@@ -25,13 +25,12 @@ and [Medium](https://medium.com/nimble) accounts. Want to see what we have built
 * Constantly learn and experiment with new technologies
 
 ## What you will bring
-   
-* **7+ years Web development experience on any stack**. Experience in Ruby, JS, Python or Go is a plus. 
-* **Ability to lead a project end-to-end** (front-end and backend architecture, implementation and testing). Only candidates that match this requirement will be shortlisted.
-* Master at testing (unit testing, integration testing)
-* Ability to lead and mentor team members to become world class developers
+
+* **3+ years Ruby/Rails experience**
 * Believe that building great applications is not only about delivering code that “works”, but involves thinking about reusability, maintainability and performance
 * Constantly learning and expanding your skill-set on and off the job
+* Comfortable working both on frontend and backend
+* Experience with testing (unit testing, integration testing)
 * A "Can do attitude" and a startup mindset
 * Enjoy working on challenging solutions and systems
 * Confidence in communicating in English
@@ -57,6 +56,6 @@ we work on.
 
 There are two ways to send us your application:
 
-* Send us an email to **job.39ahc@nimble.recruitee.com** or **work@nimblehq.co** with your resume or LinkedIn profile along with any other details that would help 
+* Send us an email to **job.2nv56@nimble.recruitee.com** or **work@nimblehq.co** with your resume or LinkedIn profile along with any other details that would help 
 in assessing your application better e.g. Github account, Stack Overflow account, side projects.
-* Fill in the application form on [our jobs site](https://jobs.nimblehq.co/o/lead-web-developer)
+* Fill in the application form on [our jobs site](https://jobs.nimblehq.co/o/rubyrails-developer-bangkok)

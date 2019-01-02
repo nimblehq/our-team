@@ -4,7 +4,7 @@
 
 ---
 
-# Ruby/Rails Developer
+# Lead Web Developer
 
 We are a team of designers, software developers and product owners building outstanding web and mobile applications for 
 companies of all sizes, from 1-person startups to Fortune 500 companies. We take a product development approach, creating 
@@ -20,42 +20,41 @@ and [Medium](https://medium.com/nimble) accounts. Want to see what we have built
 
 ## What you will do
 
+As our Software Developer Intern, you will work on real-life projects. You will join our international team and report directly to the CTO and co-founder.
+
+The following tasks will be part of your new role:
+
 * Participate actively at every level of building world class applications: UX/UI, sprint planning, development, retrospective
 * Improve your skills through code reviews and pair programming
 * Constantly learn and experiment with new technologies
 
 ## What you will bring
-
-* **3+ years Ruby/Rails experience**
-* Believe that building great applications is not only about delivering code that “works”, but involves thinking about reusability, maintainability and performance
-* Constantly learning and expanding your skill-set on and off the job
-* Comfortable working both on frontend and backend
-* Experience with testing (unit testing, integration testing)
-* A "Can do attitude" and a startup mindset
-* Enjoy working on challenging solutions and systems
-* Confidence in communicating in English
-* **Ability to relocate to Bangkok, Thailand**
+   
+* **You are in the last year of University studies, either Bachelor or Master degree.**
+* Enjoy having "pet projects", learning new languages and frameworks.
+* Maintain a clean codebase and love beautiful code.
+* A strong attention to detail.
+* Hands-on mentality.
+* Enjoy working independently.
+* **Excellent spoken and written English.**
 
 ## Why work with us
    
-* Fast learning experience. You will be able to have big responsibilities, autonomy and and the opportunity to quickly 
-level up your career.
-* Engineering focused environment. We care about process, using the right tools and testing thoroughly the application 
-we work on.
-* Regular one-on-one reviews to constantly improve and grow. We invest in your future.
-* Education allowance (yearly).
-* Provident Fund.
-* Medical insurance & social welfare.
-* Paid time off: 15 holidays per year, 2 weeks vacation per year, generous sick leave policy.
-* Monthly “investment-time” sessions to explore and learn new tech.
-* Free drinks and snacks all-day.
-* Visa and Work permit for foreigners. Relocation assistance in case you live abroad.
+* We will take care of you as you are part of us. It means this is a paid internship working in real life web and mobile applications used by many users.
+* Fast learning experience. We expect you to be able to deliver code to production within the first two weeks.
+* Nice and fun working environment with fast learning experience.
+* Free drinks and snacks every day.
 * Our office is located in the best location in Bangkok next to BTS Asoke and MRT Sukhumvit (Interchange 21).
+
+Read what some of past interns had to say about their internship with us:
+
+* https://medium.com/nimble/interning-at-nimble-b09cba25052c
+* https://medium.com/nimble/my-internship-at-nimbl3-e5f56572e08
 
 ## How to apply
 
 There are two ways to send us your application:
 
-* Send us an email to work@nimblehq.co with your resume or LinkedIn profile along with any other details that would help 
+* Send us an email to **job.bp9pk@nimble.recruitee.com** or **work@nimblehq.co** with your resume or LinkedIn profile along with any other details that would help 
 in assessing your application better e.g. Github account, Stack Overflow account, side projects.
-* Fill in the application form on [our recruitment platform Workhiro](https://www.workhiro.com/companies/nimble/049ee05b/apply?locale=en)
+* Fill in the application form on [our jobs site](https://jobs.nimblehq.co/o/internship-software-developer)
