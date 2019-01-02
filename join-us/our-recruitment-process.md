@@ -156,4 +156,4 @@ We are currently hiring for the following positions:
 - [Technical Product Owner](openings/technical-product-owner.md)
 - [Internship - Software Developer](openings/internship-software-developer.md)
 
-We also advertise additional details and position on [our recruitment platform Workhiro](http://workhiro.com/companies/nimble)
+We also advertise additional details and position on [our jobs site](https://jobs.nimblehq.co)

@@ -136,6 +136,6 @@ We are active on the following platforms and regularly post updates:
 * [Behance](https://www.behance.net/nimblehq)
 
 If this inspires you and you are interested to join our team, check out what [our recruitment process](join-us/our-recruitment-process.md) 
-is like and review if you match one of our [openings](https://www.workhiro.com/companies/nimble) ✌️
+is like and review if you match one of our [openings](https://jobs.nimblehq.co) ✌️
 
 If you just want to say "hi", drop us en email at hello@nimblehq.co 👋
