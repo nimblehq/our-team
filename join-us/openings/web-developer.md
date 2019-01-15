@@ -4,7 +4,7 @@
 
 ---
 
-# Lead Android Developer
+# Web Developer
 
 We are a team of designers, software developers and product owners building outstanding web and mobile applications for 
 companies of all sizes, from 1-person startups to Fortune 500 companies. We take a product development approach, creating 
@@ -25,13 +25,12 @@ and [Medium](https://medium.com/nimble) accounts. Want to see what we have built
 * Constantly learn and experiment with new technologies
 
 ## What you will bring
-
-* **5+ years Android experience** (Java / Kotlin is a plus). Only candidates that match this requirement will be shortlisted.
-* Ability to lead a project end-to-end (architecture, implementation and testing)
-* Master at testing (unit testing, integration testing)
-* Ability to lead and mentor team members to become world class developers
+   
+* **2-3 years Web development experience on any stack**. Experience in Ruby, Go or JS is a plus. If you do not have experience in these stacks, you must be open to learn and work on them.  
 * Believe that building great applications is not only about delivering code that “works”, but involves thinking about reusability, maintainability and performance
 * Constantly learning and expanding your skill-set on and off the job
+* Comfortable working both on frontend and backend
+* Experience with testing (unit testing, integration testing)
 * A "Can do attitude" and a startup mindset
 * Enjoy working on challenging solutions and systems
 * Confidence in communicating in English
@@ -57,6 +56,6 @@ we work on.
 
 There are two ways to send us your application:
 
-* Send us an email to **job.ee3oa@nimble.recruitee.com** or **work@nimblehq.co** with your resume or LinkedIn profile along with any other details that would help 
+* Send us an email to **job.mwrkm@nimble.recruitee.com** or **work@nimblehq.co** with your resume or LinkedIn profile along with any other details that would help 
 in assessing your application better e.g. Github account, Stack Overflow account, side projects.
-* Fill in the application form on [our jobs site](https://jobs.nimblehq.co/o/lead-android-developer)
+* Fill in the application form on [our jobs site](http://jobs.nimblehq.co/o/web-developer)

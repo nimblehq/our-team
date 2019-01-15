@@ -4,7 +4,7 @@
 
 ---
 
-# Lead Android Developer
+# Lead iOS Developer
 
 We are a team of designers, software developers and product owners building outstanding web and mobile applications for 
 companies of all sizes, from 1-person startups to Fortune 500 companies. We take a product development approach, creating 
@@ -26,7 +26,7 @@ and [Medium](https://medium.com/nimble) accounts. Want to see what we have built
 
 ## What you will bring
 
-* **5+ years Android experience** (Java / Kotlin is a plus). Only candidates that match this requirement will be shortlisted.
+* **5+ years iOS experience** (Objective C / Swift). Only candidates that match this requirement will be shortlisted.
 * Ability to lead a project end-to-end (architecture, implementation and testing)
 * Master at testing (unit testing, integration testing)
 * Ability to lead and mentor team members to become world class developers
@@ -57,6 +57,6 @@ we work on.
 
 There are two ways to send us your application:
 
-* Send us an email to **job.ee3oa@nimble.recruitee.com** or **work@nimblehq.co** with your resume or LinkedIn profile along with any other details that would help 
+* Send us an email to **job.ah5fp@nimble.recruitee.com** or **work@nimblehq.co** with your resume or LinkedIn profile along with any other details that would help 
 in assessing your application better e.g. Github account, Stack Overflow account, side projects.
-* Fill in the application form on [our jobs site](https://jobs.nimblehq.co/o/lead-android-developer)
+* Fill in the application form on [our jobs site](http://jobs.nimblehq.co/o/lead-ios-developer)
