@@ -26,7 +26,7 @@ and [Medium](https://medium.com/nimble) accounts. Want to see what we have built
 
 ## What you will bring
    
-* **7+ years Web development experience on any stack**. Experience in Ruby, JS, Python or Go is a plus. 
+* **6+ years Web development experience on any stack**. Experience in Ruby, JS, Python or Go is a plus. 
 * **Ability to lead a project end-to-end** (front-end and backend architecture, implementation and testing). Only candidates that match this requirement will be shortlisted.
 * Master at testing (unit testing, integration testing)
 * Ability to lead and mentor team members to become world class developers
