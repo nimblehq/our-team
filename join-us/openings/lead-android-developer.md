@@ -26,7 +26,7 @@ and [Medium](https://medium.com/nimble) accounts. Want to see what we have built
 
 ## What you will bring
 
-* **7+ years Android experience** (Java / Kotlin is a plus). Only candidates that match this requirement will be shortlisted.
+* **5+ years Android experience** (Java / Kotlin is a plus). Only candidates that match this requirement will be shortlisted.
 * Ability to lead a project end-to-end (architecture, implementation and testing)
 * Master at testing (unit testing, integration testing)
 * Ability to lead and mentor team members to become world class developers
