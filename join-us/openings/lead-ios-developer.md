@@ -4,7 +4,7 @@
 
 ---
 
-# Lead Android Developer
+# Lead iOS Developer
 
 We are a team of designers, software developers and product owners building outstanding web and mobile applications for 
 companies of all sizes, from 1-person startups to Fortune 500 companies. We take a product development approach, creating 
