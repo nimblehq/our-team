@@ -149,9 +149,10 @@ We are always on the look-out for great people to join us so don't hesitate to s
 
 We are currently hiring for the following positions:
 
-- [Lead Web Developer](openings/lead-web-developer.md)
 - [Lead Android Developer](openings/lead-android-developer.md)
 - [Lead iOS Developer](openings/lead-ios-developer.md)
+- [Lead Web Developer](openings/lead-web-developer.md)
+- [Web Developer](openings/web-developer.md)
 - [Ruby/Rails Developer (Bangkok)](openings/ruby-rails-developer-bangkok.md)
 - [Ruby/Rails Developer (Da Nang)](openings/ruby-rails-developer-danang.md)
 - [Technical Product Owner](openings/technical-product-owner.md)
