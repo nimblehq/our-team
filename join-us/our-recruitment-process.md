@@ -151,6 +151,7 @@ We are currently hiring for the following positions:
 
 - [Lead Web Developer](openings/lead-web-developer.md)
 - [Lead Android Developer](openings/lead-android-developer.md)
+- [Lead iOS Developer](openings/lead-ios-developer.md)
 - [Ruby/Rails Developer (Bangkok)](openings/ruby-rails-developer-bangkok.md)
 - [Ruby/Rails Developer (Da Nang)](openings/ruby-rails-developer-danang.md)
 - [Technical Product Owner](openings/technical-product-owner.md)
