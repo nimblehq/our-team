@@ -6,16 +6,21 @@
 
 # Lead Web Developer
 
-We are a team of designers, software developers and product owners building outstanding web and mobile applications for 
-companies of all sizes, from 1-person startups to Fortune 500 companies. We take a product development approach, creating 
-custom software that people will love to use and empowering our clients to do what they do best - better.
+We are not rockstars or ninjas. We are a team of friendly and passionate software engineers, product owners and designers 
+striving to build outstanding web and mobile applications.
+
+Millions of people use our apps. We work for companies of all sizes; from 1-person startups to Fortune 500 enterprises. 
+We take a collaborative and product development approach, creating custom software that people will love to use and solving 
+our clients' problems so that they can focus on what they do best - better.
 
 If you want to grow together, work on challenging products and enjoy using the best tools and practices, Nimble is the 
 right place for you! We keep our [recruitment process](https://github.com/nimblehq/our-team/blob/master/join-us/our-recruitment-process.md) 
 practical and straightforward.
 
-To learn more about how we work, check our handbkook [Compass](https://compass.nimblehq.co/), [Github](https://github.com/nimblehq/our-team) 
-and [Medium](https://medium.com/nimble) accounts. Want to see what we have built? Check our selected [portfolio](https://nimblehq.co/work/), 
+To learn more about how we work, check our handbkook named [Compass](https://compass.nimblehq.co/), [Github](https://github.com/nimblehq/our-team) 
+and [Medium](https://medium.com/nimble) accounts. 
+
+Want to see what we have built? Check our selected [portfolio](https://nimblehq.co/work/), 
 [Dribbble](https://dribbble.com/nimblehq) and [Behance](https://www.behance.net/nimblehq) accounts.
 
 ## What you will do
