@@ -15,7 +15,7 @@ empowering our clients to do what they do best - better.
 * The largest loyalty platform in Thailand
 * eCommerce platforms from the ground up 
 * Online booking platforms
-* Cryptocurrency exchange\
+* Cryptocurrency exchange
 * Social networks
 * eLearning platforms
 * Customer feedback platforms (think of Survey Monkey but for the year 2020)
