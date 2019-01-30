@@ -12,21 +12,25 @@ empowering our clients to do what they do best - better.
 
 ### Kind of projects we have done/are currently doing
 
+* The largest loyalty platform in Thailand
 * eCommerce platforms from the ground up 
-* Social networks
 * Online booking platforms
+* Cryptocurrency exchange\
+* Social networks
 * eLearning platforms
 * Customer feedback platforms (think of Survey Monkey but for the year 2020)
 * Payments
 * Live video streaming and on-demand video
-* Real estate
+* Real estate platforms
+* Influencers marketing platform
+* Photographers marketplace
 
 ### Kind of consulting we do
 
+* Security and penetration testing
 * Architecture
 * Scalability
 * Performance improvement
-* Security and penetration testing
 
 ## How we work
 
@@ -84,33 +88,32 @@ to track who is doing what. We believe in transparency so our clients and us are
 
 ### For deployment/hosting
 
-* Via CI/CD servers (Semaphore CI and Jenkins CI)
-* [Mina](https://github.com/mina-deploy/mina) in some cases e.g. Azure
-* Digital Ocean. Our fave 💙 for self-managed servers. 
+* Via CI/CD servers (Semaphore CI and Jenkins CI).
+* [Mina](https://github.com/mina-deploy/mina).
+* AWS.
+* Digital Ocean. 
 * Heroku. Our goto hosting provider for managed servers.
-* AWS
 * Azure
-* Some git hooks for specific tasks like updating i18n files
 
 ### Monitoring
 
 * Sentry
+* New Relic
+* Firebase
 * Logentries
-* Papertrail
-* Scout (for Ruby on Rails applications)
-* New Relic (server monitoring mostly)
+* Cloudwatch
 
 ## Technologies
 
 ### Our main focus
 
 * Ruby: Ruby on Rails / Sinatra / dry.rb
-* JavaScript: Node.js, React JS/Native, Ember JS
+* JavaScript: React JS/Native, Vue, Ember JS
 * Go
 * Swift (since 1.0 ✌️), Objective C
 * Kotlin, Java
 * PostgreSQL, Redis, MySQL
-* Elastic, Apache Solar
+* Elastic
 
 ## Other tech areas we are investing in
 
