@@ -62,6 +62,6 @@ Want to see what we have built? Check our selected [portfolio](https://nimblehq.
 
 ## How to apply
 
-* Send us an email to **job.atl18@nimble.recruitee.com** or **work@nimblehq.co** with your resume or LinkedIn profile along with any other details that would help 
+* Send us an email to **work@nimblehq.co** with your resume or LinkedIn profile along with any other details that would help 
 in assessing your application better e.g. Github account, Stack Overflow account, side projects.
 * Fill in the application form on [our jobs site](https://jobs.nimblehq.co/o/technical-product-owner)
