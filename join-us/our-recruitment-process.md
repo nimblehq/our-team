@@ -156,6 +156,6 @@ We are currently hiring for the following positions:
 - [Ruby/Rails Developer (Bangkok)](openings/ruby-rails-developer-bangkok.md)
 - [Ruby/Rails Developer (Da Nang)](openings/ruby-rails-developer-danang.md)
 - [Technical Product Owner](openings/technical-product-owner.md)
-- [Internship - Software Developer](openings/internship-software-developer.md)
+- [Talent Manager](openings/talent-manager.md)
 
 We also advertise additional details and position on [our jobs site](https://jobs.nimblehq.co)
