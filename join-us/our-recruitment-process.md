@@ -145,7 +145,7 @@ so applicants who have not been selected should not be discouraged from seeking 
 
 ## Openings
 
-We are always on the look-out for great people to join us so don't hesitate to send us your application to work@nimblehq.co. 
+We are always on the look-out for great people to join us so don't hesitate to send us your application to work@nimble.recruitee.com. 
 
 We are currently hiring for the following positions:
 
