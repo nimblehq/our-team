@@ -128,6 +128,23 @@ Upon reception of the submission by email, our team usually take anywhere betwee
 
 Our review will be emailed back to you.
 
+#### Talent Managers
+
+The challenge requires to provide recommendations in two areas: Outreach Activities and  People Operations
+
+Applicants are expected to provide recommendations relevant to our company specifically (geography, industry and team size).
+
+Applicants are free to choose the format in which they want to submit their report e.g. test document, presentation, 
+or others...
+
+Upon reception of the submission by email, our team usually take anywhere between 3-5 days to do a complete review. We 
+put great emphasis on the following:
+
+* Care and attention to detail in the way to present your report.
+* Business value and implementation feasibility of your recommendations.
+
+Our review will be emailed back to you.
+
 ### 2nd Interview
 
 This is very similar to the first interview but with different people from our team. 
@@ -145,7 +162,7 @@ so applicants who have not been selected should not be discouraged from seeking 
 
 ## Openings
 
-We are always on the look-out for great people to join us so don't hesitate to send us your application to work@nimblehq.co. 
+We are always on the look-out for great people to join us so don't hesitate to send us your application to work@nimble.recruitee.com. 
 
 We are currently hiring for the following positions:
 
@@ -156,6 +173,6 @@ We are currently hiring for the following positions:
 - [Ruby/Rails Developer (Bangkok)](openings/ruby-rails-developer-bangkok.md)
 - [Ruby/Rails Developer (Da Nang)](openings/ruby-rails-developer-danang.md)
 - [Technical Product Owner](openings/technical-product-owner.md)
-- [Internship - Software Developer](openings/internship-software-developer.md)
+- [Talent Manager](openings/talent-manager.md)
 
 We also advertise additional details and position on [our jobs site](https://jobs.nimblehq.co)
