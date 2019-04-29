@@ -128,6 +128,23 @@ Upon reception of the submission by email, our team usually take anywhere betwee
 
 Our review will be emailed back to you.
 
+#### Talent Managers
+
+The challenge requires to provide recommendations in two areas: Outreach Activities and  People Operations
+
+Applicants are expected to provide recommendations relevant to our company specifically (geography, industry and team size).
+
+Applicants are free to choose the format in which they want to submit their report e.g. test document, presentation, 
+or others...
+
+Upon reception of the submission by email, our team usually take anywhere between 3-5 days to do a complete review. We 
+put great emphasis on the following:
+
+* Care and attention to detail in the way to present your report.
+* Business value and implementation feasibility of your recommendations.
+
+Our review will be emailed back to you.
+
 ### 2nd Interview
 
 This is very similar to the first interview but with different people from our team. 
