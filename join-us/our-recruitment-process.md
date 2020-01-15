@@ -64,7 +64,7 @@ The challenge requires to build a small application from scratch with a single f
 to show how they can architect a small application from scratch using the best practices of software development encompassing 
 code structure, maintainability, security and testing.
 
-All code must be submitted via a public git-based code versioning platform such as Github, Bitbucket Gitlab. Upon submitting 
+All code must be submitted via a public git-based code versioning platform such as Github, Bitbucket, Gitlab. Upon submitting 
 the link to the code repository, applicants need to make sure that the issue tracker is enabled on the repository so that 
 our team can submit our code review feedback. 
 
