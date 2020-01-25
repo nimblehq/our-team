@@ -43,8 +43,8 @@ It can either be in-person at our office for applicants living in the same count
 Interview slots are booked via [Calendly](https://calendly.com/) so that applicants can pick a time that works best for 
 them. Interviews usually take anywhere between 30 to 60 minutes.
 
-During this first meet, we blend informal, technical and personality-based questions. At this first stage, we are checking 
-both team-fit and technical aptitude. The technical questions do not require any special preparation as we do not do 
+During this first meet, we blend informal, skills and personality-based questions. At this first stage, we are checking 
+both team-fit and aptitude. The skillset questions do not require any special preparation as we do not do 
 whiteboard interviews. Instead, we focus on practical and intermediate-level questions allowing applicants to reference 
 their own experience and at the same time allowing us to verify if the applicant is up-to-date with the current technologies 
 and best practices.  
@@ -56,7 +56,7 @@ i.e. Ruby or JavaScript test for web developers, Android or iOS test for mobile 
 UX/UI test for designers etc. We have challenges for each position we advertise 🤓 
 
 Applicants are given one week to complete the assignment from the comfort of their home. Commitment-wise, each applicant 
-should allocate between 4-8 hours but it varies greatly based on their own technical aptitude and workflows. 
+should allocate between 4-8 hours but it varies greatly based on their own aptitude and workflows. 
 
 #### Developers
 
@@ -147,7 +147,7 @@ Our review will be emailed back to you.
 
 ### 2nd Interview
 
-This is very similar to the first interview but with different people from our team. 
+This is very similar to the first interview but with different people from our team. In this interview we check team fit, clarify open questions and wrap up our assessment.
 
 At every stage, we involve our teammates so that they get to meet their potential future colleagues and inversely 
 applicants get to meet several people from the team instead of only one person. 
@@ -162,7 +162,7 @@ so applicants who have not been selected should not be discouraged from seeking 
 
 ## Openings
 
-We are always on the look-out for great people to join us so don't hesitate to send us your application to work@nimble.recruitee.com. 
+We are always on the look-out for great people to join us so don't hesitate to send us your application to work@nimble.recruitee.com 
 
 We are currently hiring for the following positions:
 
