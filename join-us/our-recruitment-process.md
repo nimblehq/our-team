@@ -40,7 +40,7 @@ As we like to move fast, applicants are invited to submit the form back to us wi
 Following the review of the information provided in the previous step, we invite short-listed applicants for an interview. 
 It can either be in-person at our office for applicants living in the same country where our office is, or over Skype.
 
-Interview slots are booked via [Calendly](https://calendly.com/) so that applicants can pick a time that works best for 
+Interview slots are booked via Recruitee so that applicants can pick a time that works best for 
 them. Interviews usually take anywhere between 30 to 60 minutes.
 
 During this first meet, we blend informal, skills and personality-based questions. At this first stage, we are checking 
