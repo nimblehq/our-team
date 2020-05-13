@@ -81,7 +81,7 @@ to implement the same feature.
 Applicants are invited to interact with our team by replying directly to the open issues and also have the opportunity to
 fix or change the code following the code review comments. So the code challenge is really a participative process, not 
 a submission-and-waiting-and-praying-everything-goes-well step. Our main goal is to find developers we would love to work 
-with. So show us how awesome you are in the code review 💪
+with, so show us how awesome you are in the code review 💪
 
 #### Product Managers
 
@@ -109,7 +109,7 @@ The challenge is broken into two tasks:
 1. UX
 
 Applicants need to create a UX flow for a specific feature for a fictive company in a specific industry e.g. eCommerce 
-checkout flow for a jo board, payment flow for a bank. Only the main screens are expected to make the task smaller in scope.
+checkout flow for a job board, payment flow for a bank. Only the main screens are expected to make the task smaller in scope.
 
 The UX flow must be submitted in PDF format.
 
@@ -128,7 +128,7 @@ Upon reception of the submission by email, our team usually take anywhere betwee
 
 Our review will be emailed back to you.
 
-#### Talent Managers
+#### Talent Managers and Talent Management Associates
 
 The challenge requires to provide recommendations in two areas: Outreach Activities and  People Operations
 
@@ -157,7 +157,7 @@ during the whole application process. We are usually fast on taking a final deci
 whether positive or negative, within 1-2 days at most.
 
 In our hiring process, we prefer to be too cautious. We rather reject someone by mistake than hire someone by mistake, since 
-a wrong hire is much more disruptive. Organizations can reject [people with great potential](https://www.adweek.com/digital/whatsapp-facebook-twitter-brian-acton/) 
+a wrong hire is much more disruptive. Organizations can reject [people with great potential](https://www.forbes.com/sites/georgeanders/2014/02/19/he-wanted-a-job-facebook-said-no-in-a-3-billion-mistake/#106bcf065244) 
 so applicants who have not been selected should not be discouraged from seeking a great job.
 
 ## Openings
@@ -166,13 +166,10 @@ We are always on the look-out for great people to join us so don't hesitate to s
 
 We are currently hiring for the following positions:
 
-- [Lead Android Developer](openings/lead-android-developer.md)
-- [Lead iOS Developer](openings/lead-ios-developer.md)
 - [Lead Web Developer](openings/lead-web-developer.md)
 - [Web Developer](openings/web-developer.md)
 - [Ruby/Rails Developer (Bangkok)](openings/ruby-rails-developer-bangkok.md)
 - [Ruby/Rails Developer (Da Nang)](openings/ruby-rails-developer-danang.md)
 - [Technical Product Owner](openings/technical-product-owner.md)
-- [Talent Manager](openings/talent-manager.md)
 
 We also advertise additional details and position on [our jobs site](https://jobs.nimblehq.co)
