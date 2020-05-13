@@ -166,10 +166,15 @@ We are always on the look-out for great people to join us so don't hesitate to s
 
 We are currently hiring for the following positions:
 
-- [Lead Web Developer](openings/lead-web-developer.md)
-- [Web Developer](openings/web-developer.md)
-- [Ruby/Rails Developer (Bangkok)](openings/ruby-rails-developer-bangkok.md)
-- [Ruby/Rails Developer (Da Nang)](openings/ruby-rails-developer-danang.md)
-- [Technical Product Owner](openings/technical-product-owner.md)
+- (Bangkok) [Android Developer](openings/bangkok-android-developer.md)
+- (Bangkok) [Business Development Executive](openings/bangkok-business-development-executive.md)
+- (Bangkok) [Internship Software Developer](openings/bangkok-internship-software-developer.md)
+- (Bangkok) [iOS Developer](openings/bangkok-ios-developer.md)
+- (Bangkok) [Senior UX/UI Designer](openings/bangkok-senior-uxui-designer.md)
+- (Bangkok) [Technical Product Owner](openings/bangkok-technical-product-owner.md)
+- (Bangkok) [Web Developer](openings/bangkok-web-developer.md)
+- (Da Nang) [Senior Web Developer](openings/danang-web-developer.md)
+- (HCMC) [Senior UX/UI Designer](openings/hcmc-senior-uxui-designer.md)
+- (HCMC) [Senior Web Developer](openings/hcmc-web-developer.md)
 
 We also advertise additional details and position on [our jobs site](https://jobs.nimblehq.co)
