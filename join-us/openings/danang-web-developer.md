@@ -51,18 +51,19 @@ Want to see what we have built? Check our selected [portfolio](https://nimblehq.
 
 ## What you will bring
 
-* **3 or more years of professional web development experience.** If you are an expert on PHP and want to step up your game learning another language or two, this is the right place for you.
+* **3 or more years of professional web development experience.** Experience in Ruby, JavaScript or Go is ideal. If you do not have experience in these stacks, *you must be open to learn and work on them*. If you have advanced experience in PHP or Python and want to step up your game learning another language or two, this is the right place for you.
 * Proven ability to lead web projects end-to-end from front-end/back-end architecture to implementation and deployment.
-* A "can do attitude" and ownership mentality.
+* A "can do attitude" and product mindset.
 * At least basic experience with a modern JavaScript framework like Vue, React JS/Redux, or Angular JS.
 * Advanced experience in writing automated tests for web applications.
 * You believe that building great applications is not only about delivering code that “works”, but involves thinking about reusability, maintainability, security and performance.
+* Enjoy working on challenging solutions and systems.
 * Confidence in communicating in English.
 
 ## How to apply
 
 There are two ways to send us your application:
 
-* Send us an email to **work@nimble.recruitee.com** with your resume or LinkedIn profile along with any other details that would help 
+* Send us an email to **work@nimblehq.co** with your resume or LinkedIn profile along with any other details that would help 
 in assessing your application better e.g. Github account, Stack Overflow account, side projects.
-* Fill in the application form on [our jobs site](https://jobs.nimblehq.co/o/senior-web-developer-19)
+* Fill in the application form on [our jobs site](https://jobs.nimblehq.co/o/senior-web-developer-19).
