@@ -61,10 +61,10 @@ Want to see what we have built? Check our selected [portfolio](https://nimblehq.
 * Ability to organize your own work and create work for others.
 * Looking for a leadership role, hence soft skills such as negotiation and evaluating/proposing creative alternatives are required.
 * Very articulate, opinionated, decisive and is at ease to interact with clients.
-* *Willing to relocate to Bangkok, Thailand.*
+* Willing to relocate to Bangkok, Thailand.
 
 ## How to apply
 
-* Send us an email to **work@nimble.recruitee.com** with your resume or LinkedIn profile along with any other details that would help 
+* Send us an email to **work@nimblehq.co** with your resume or LinkedIn profile along with any other details that would help 
 in assessing your application better e.g. Github account, Stack Overflow account, side projects.
-* Fill in the application form on [our jobs site](https://jobs.nimblehq.co/o/technical-product-owner-12)
+* Fill in the application form on [our jobs site](https://jobs.nimblehq.co/o/technical-product-owner-12).
