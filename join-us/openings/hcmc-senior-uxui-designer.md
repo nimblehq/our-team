@@ -56,12 +56,11 @@ Want to see what we have built? Check our selected [portfolio](https://nimblehq.
 * Constantly keeping updated with the latest design trends.
 * Being comfortable working with engineers and product managers.
 * Confidence in communicating in English.
-* *Due COVID-19 pandemic and worldwide travel ban in many countries, although we would still process applications currently reside outside Thailand and Vietnam, please anticipate a delay in our starting date or onboarding remotely in the first few weeks until the situation stabilizes.*
 
 ## How to apply
 
 There are two ways to send us your application:
 
-* Send us an email to **work@nimble.recruitee.com** with your resume or LinkedIn profile along with any other details that would help 
+* Send us an email to **work@nimblehq.co** with your resume or LinkedIn profile along with any other details that would help 
 in assessing your application better e.g. Github account, Stack Overflow account, side projects.
-* Fill in the application form on [our jobs site](https://jobs.nimblehq.co/o/senior-uxui-designer-10)
+* Fill in the application form on [our jobs site](https://jobs.nimblehq.co/o/senior-uxui-designer-10).
