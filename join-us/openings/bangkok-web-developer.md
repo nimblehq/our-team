@@ -62,11 +62,11 @@ Want to see what we have built? Check our selected [portfolio](https://nimblehq.
 * Believe that building great applications is not only about delivering code that “works”, but involves thinking about reusability, maintainability, security, and performance.
 * A "Can do attitude" and a product mindset.
 * Confidence in communicating in English.
-* *Willing to relocate to Bangkok, Thailand.*
+* Willing to relocate to Bangkok, Thailand.
 
 ## How to apply
 
 There are two ways to send us your application:
 
-* Send us an email to **work@nimble.recruitee.com** with your resume or LinkedIn profile along with any other details that would help in assessing your application better e.g. Github account, Stack Overflow account, side projects.
-* Fill in the application form on [our jobs site](https://jobs.nimblehq.co/o/web-developer-midsenior-level-1)
+* Send us an email to **work@nimblehq.co** with your resume or LinkedIn profile along with any other details that would help in assessing your application better e.g. Github account, Stack Overflow account, side projects.
+* Fill in the application form on [our jobs site](https://jobs.nimblehq.co/o/web-developer-midsenior-level-1).
