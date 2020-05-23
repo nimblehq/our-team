@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Nimble logo" src="https://assets.nimblehq.co/logo/light/logo-light-text-320.png" />
+  <a href="https://nimblehq.co"><img alt="Nimble logo" src="https://assets.nimblehq.co/logo/light/logo-light-text-320.png" /></a>
 </p>
 
 ---
