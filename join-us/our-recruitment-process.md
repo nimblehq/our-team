@@ -40,7 +40,7 @@ As we like to move fast, applicants are invited to submit the form back to us wi
 Following the review of the information provided in the previous step, we invite short-listed applicants for an interview. 
 It can either be in-person at our office for applicants living in the same country where our office is, or over Skype.
 
-Interview slots are booked via [Calendly](https://calendly.com/) so that applicants can pick a time that works best for 
+Interview slots are booked via Recruitee so that applicants can pick a time that works best for 
 them. Interviews usually take anywhere between 30 to 60 minutes.
 
 During this first meet, we blend informal, skills and personality-based questions. At this first stage, we are checking 
@@ -81,7 +81,7 @@ to implement the same feature.
 Applicants are invited to interact with our team by replying directly to the open issues and also have the opportunity to
 fix or change the code following the code review comments. So the code challenge is really a participative process, not 
 a submission-and-waiting-and-praying-everything-goes-well step. Our main goal is to find developers we would love to work 
-with. So show us how awesome you are in the code review 💪
+with, so show us how awesome you are in the code review 💪
 
 #### Product Managers
 
@@ -109,7 +109,7 @@ The challenge is broken into two tasks:
 1. UX
 
 Applicants need to create a UX flow for a specific feature for a fictive company in a specific industry e.g. eCommerce 
-checkout flow for a jo board, payment flow for a bank. Only the main screens are expected to make the task smaller in scope.
+checkout flow for a job board, payment flow for a bank. Only the main screens are expected to make the task smaller in scope.
 
 The UX flow must be submitted in PDF format.
 
@@ -128,7 +128,7 @@ Upon reception of the submission by email, our team usually take anywhere betwee
 
 Our review will be emailed back to you.
 
-#### Talent Managers
+#### Talent Managers and Talent Management Associates
 
 The challenge requires to provide recommendations in two areas: Outreach Activities and  People Operations
 
@@ -157,22 +157,24 @@ during the whole application process. We are usually fast on taking a final deci
 whether positive or negative, within 1-2 days at most.
 
 In our hiring process, we prefer to be too cautious. We rather reject someone by mistake than hire someone by mistake, since 
-a wrong hire is much more disruptive. Organizations can reject [people with great potential](https://www.adweek.com/digital/whatsapp-facebook-twitter-brian-acton/) 
+a wrong hire is much more disruptive. Organizations can reject [people with great potential](https://www.forbes.com/sites/georgeanders/2014/02/19/he-wanted-a-job-facebook-said-no-in-a-3-billion-mistake/#106bcf065244) 
 so applicants who have not been selected should not be discouraged from seeking a great job.
 
 ## Openings
 
-We are always on the look-out for great people to join us so don't hesitate to send us your application to work@nimble.recruitee.com 
+We are always on the look-out for great people to join us so don't hesitate to send us your application to work@nimblehq.co
 
 We are currently hiring for the following positions:
 
-- [Lead Android Developer](openings/lead-android-developer.md)
-- [Lead iOS Developer](openings/lead-ios-developer.md)
-- [Lead Web Developer](openings/lead-web-developer.md)
-- [Web Developer](openings/web-developer.md)
-- [Ruby/Rails Developer (Bangkok)](openings/ruby-rails-developer-bangkok.md)
-- [Ruby/Rails Developer (Da Nang)](openings/ruby-rails-developer-danang.md)
-- [Technical Product Owner](openings/technical-product-owner.md)
-- [Talent Manager](openings/talent-manager.md)
+- (Bangkok) [Android Developer](openings/bangkok-android-developer.md)
+- (Bangkok) [Business Development Executive](openings/bangkok-business-development-executive.md)
+- (Bangkok) [Internship Software Developer](openings/bangkok-internship-software-developer.md)
+- (Bangkok) [iOS Developer](openings/bangkok-ios-developer.md)
+- (Bangkok) [Senior UX/UI Designer](openings/bangkok-senior-uxui-designer.md)
+- (Bangkok) [Technical Product Owner](openings/bangkok-technical-product-owner.md)
+- (Bangkok) [Web Developer](openings/bangkok-web-developer.md)
+- (Da Nang) [Senior Web Developer](openings/danang-web-developer.md)
+- (HCMC) [Senior UX/UI Designer](openings/hcmc-senior-uxui-designer.md)
+- (HCMC) [Senior Web Developer](openings/hcmc-web-developer.md)
 
 We also advertise additional details and position on [our jobs site](https://jobs.nimblehq.co)
