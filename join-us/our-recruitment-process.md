@@ -4,4 +4,4 @@
 
 ---
 
-Our recruitment process documentation has moved to [this link](https://nimblehq.com/compass/team/joining-nimble/).
+Our recruitment process documentation has moved to [this link](https://nimblehq.co/compass/team/joining-nimble/).
