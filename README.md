@@ -66,14 +66,14 @@ We strive at providing a comfortable work environment and always using the right
 
 ### UX/UI 
 
-* Sketch
-* Adobe Illustrator for illustration and branding work only  
-* [Invision](https://www.invisionapp.com/)
+* [Figma](https://www.figma.com/)
+* Adobe Illustrator for illustration and branding work only
 * [Principle](http://principleformac.com/) to animate our designs
 
 ### Project Planning
 
-* Pivotal Tracker (our fave 💙)
+* Clubhouse (our fave 💙)
+* Pivotal Tracker
 * JIRA
 * Trello for non-code related activities
 
@@ -138,7 +138,7 @@ We are active on the following platforms and regularly post updates:
 * [Dribbble](https://dribbble.com/nimblehq)
 * [Behance](https://www.behance.net/nimblehq)
 
-If this inspires you and you are interested to join our team, check out what [our recruitment process](join-us/our-recruitment-process.md) 
+If this inspires you and you are interested to join our team, check out what [our recruitment process](https://nimblehq.co/compass/team/joining-nimble/) 
 is like and review if you match one of our [openings](https://jobs.nimblehq.co) ✌️
 
 If you just want to say "hi", drop us en email at hello@nimblehq.co 👋
